@@ -1,7 +1,8 @@
 {
   "functions": {
     "api/wsgi.py": {
-      "runtime": "python3.12"
+      "runtime": "python3.12",
+      "installCommand": "pip install -r requirements.txt"
     }
   },
   "routes": [
