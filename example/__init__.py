@@ -1,6 +1,8 @@
-import os
+import os, joblib, pathlib
 
-MODEL_PATH = os.getenv("SENTIMENT_MODEL_PATH", "svr_spacy.joblib")
+# Ruta por defecto (dentro de la app)
+DEFAULT_PATH = pathlib.Path(__file__).resolve().parent / "models" / "svr_spacy_xz.joblib"
+MODEL_PATH   = pathlib.Path(os.getenv("SENTIMENT_MODEL_PATH", DEFAULT_PATH))
 
-# Eliminamos la carga del modelo aquí para cargar bajo demanda
-# El modelo se cargará solo cuando sea necesario en las vistas
+bundle = joblib.load(MODEL_PATH)
+MODEL, NLP = bundle["model"], bundle["nlp"]
