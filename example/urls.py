@@ -1,9 +1,6 @@
-# example/urls.py
 from django.urls import path
-
-from example.views import index
-
+from .views import ReviewScoreView
 
 urlpatterns = [
-    path('', index),
+    path("score/", ReviewScoreView.as_view(), name="review-score"),
 ]

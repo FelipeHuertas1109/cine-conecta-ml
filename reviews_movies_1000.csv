@@ -1,0 +1,1001 @@
+id,text,score,author,movie,split
+132,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.9,Diego,Roma,train
+204,Floja en casi todo. El ritmo es irregular. Le falta alma.,2.3,Lucía,1917,train
+51,Insoportable de principio a fin. El montaje es caótico. Salí del cine antes de que terminara.,1.2,Carlos,The Dark Knight,train
+586,"Tiene luces y sombras. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.6,María,Mad Max: Fury Road,test
+139,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Una completa decepción.,1.5,Ana,Spider‑Verse,train
+633,Buen entretenimiento. La música te envuelve. Vale la entrada.,4.4,Diego,Soul,train
+329,Se queda a medias. La trama se desinfla a mitad. Solo la salva la banda sonora.,2.6,María,Spider‑Verse,train
+462,Correcta pero olvidable. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.7,Carlos,Parasite,train
+925,Excepcional. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.6,Ana,Parasite,train
+480,Entretenida sin más. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.7,Diego,The Dark Knight,train
+196,Pésima película. Las actuaciones son de cartón. Le pongo la peor nota posible.,1.7,Lucía,Arrival,test
+222,Se queda a medias. Los personajes están poco desarrollados. Le falta alma.,2.6,Ana,Soul,train
+210,Floja en casi todo. El final es predecible. Algo rescata la fotografía.,2.6,Ana,Spider‑Verse,train
+379,"Esperaba más. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.7,María,Roma,valid
+157,Dos horas perdidas. El sonido es confuso. Desperdicio absoluto de tiempo.,1.0,FHG,Dune,train
+328,"Quedó debiendo muchísimo. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,María,Coco,train
+762,Buen entretenimiento. El humor está bien medido. Seguro la veré otra vez.,4.1,Carlos,Joker,valid
+321,Quedó debiendo muchísimo. La trama se desinfla a mitad. Le falta alma.,2.2,María,Roma,train
+275,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Una pena.,2.9,María,Spider‑Verse,train
+418,Está bien para pasar el rato. Algunos chistes caen planos. Salí neutral.,3.1,Lucía,Parasite,train
+373,Se queda a medias. Los efectos especiales apenas salvan algunos momentos. Algo rescata la fotografía.,2.2,María,Spider‑Verse,valid
+300,"Quedó debiendo muchísimo. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.0,Ana,Soul,train
+230,Se queda a medias. El final es predecible. Algo rescata la fotografía.,2.4,Carlos,Spider‑Verse,train
+897,Excepcional. Cada plano es arte puro. Salí conmovido.,4.7,Diego,Parasite,train
+595,Regular en casi todo. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.7,Carlos,Whiplash,test
+984,Excepcional. Te atrapa desde el primer minuto. Inolvidable.,4.6,Diego,Roma,test
+737,Sólida de principio a fin. Las actuaciones brillan. Recomendada.,4.4,Ana,Dune,train
+86,No la recomiendo en absoluto. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.0,Diego,Coco,train
+883,Inolvidable. Profundamente conmovedora. Una joya absoluta.,4.7,FHG,Joker,train
+8,Pésima película. La fotografía parece amateur. Se siente eterna y vacía.,1.7,María,Parasite,train
+723,Me gustó bastante. La música te envuelve. Buen trabajo del director.,4.1,Ana,Whiplash,train
+44,Insoportable de principio a fin. El sonido es confuso. Salí del cine antes de que terminara.,1.6,Diego,Interstellar,train
+567,Entretenida sin más. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.2,Carlos,Spider‑Verse,valid
+318,"No cumple lo prometido. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.5,Lucía,Roma,train
+875,Cine del bueno. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,4.7,Ana,Arrival,train
+744,Recomendable. Las actuaciones brillan. Salí contento del cine.,4.5,María,Spider‑Verse,train
+354,"Quedó debiendo muchísimo. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.1,Lucía,Dune,train
+146,Dos horas perdidas. El montaje es caótico. Se siente eterna y vacía.,1.6,Ana,Spider‑Verse,train
+347,"No cumple lo prometido. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.1,Diego,1917,train
+591,Entretenida sin más. El ritmo mantiene la atención. Salí neutral.,3.3,Ana,Parasite,test
+772,Me gustó bastante. La fotografía es preciosa. Buen trabajo del director.,4.2,Ana,La La Land,valid
+337,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.3,Diego,Spider‑Verse,train
+634,Recomendable. El clímax emociona. Salí contento del cine.,4.3,FHG,1917,train
+311,"Quedó debiendo muchísimo. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.4,FHG,Interstellar,train
+694,Recomendable. El guion mantiene el suspense. Seguro la veré otra vez.,4.3,María,Mad Max: Fury Road,train
+692,Sólida de principio a fin. La fotografía es preciosa. Buen trabajo del director.,4.3,Ana,Mad Max: Fury Road,train
+339,"Quedó debiendo muchísimo. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.1,Diego,1917,train
+902,Inolvidable. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.8,FHG,Mad Max: Fury Road,train
+319,"No cumple lo prometido. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,FHG,Whiplash,train
+353,"No cumple lo prometido. El final es predecible. No la odié, pero tampoco la disfrutaría de nuevo.",2.5,Carlos,Whiplash,train
+162,Insoportable de principio a fin. El sonido es confuso. Salí del cine antes de que terminara.,1.2,FHG,Joker,valid
+543,"Entretenida sin más. El reparto funciona a medias. Cumple, aunque no sorprende.",3.1,Ana,Whiplash,train
+787,"Grata sorpresa. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.1,María,Parasite,test
+918,Obra maestra. Te atrapa desde el primer minuto. Una joya absoluta.,4.7,María,Joker,train
+388,Quedó debiendo muchísimo. Los personajes están poco desarrollados. Una pena.,2.6,María,Spider‑Verse,test
+197,Pésima película. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.4,Carlos,Coco,test
+649,Grata sorpresa. El humor está bien medido. Seguro la veré otra vez.,4.2,Carlos,Dune,train
+168,Pésima película. El sonido es confuso. Se siente eterna y vacía.,1.5,Ana,Roma,valid
+598,Tiene luces y sombras. La ambientación destaca sobre el guion. Ideal para una tarde lluviosa.,3.9,FHG,Mad Max: Fury Road,test
+393,"Decepcionante pero con algún destello. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.2,María,Mad Max: Fury Road,test
+804,Inolvidable. Fotografía y música sobresalientes. Una joya absoluta.,4.9,FHG,Dune,train
+537,Entretenida sin más. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.3,FHG,Mad Max: Fury Road,train
+173,Simplemente nefasta. El montaje es caótico. Una completa decepción.,1.9,Diego,Coco,valid
+831,Cine del bueno. Profundamente conmovedora. Inolvidable.,4.7,Lucía,Arrival,train
+183,Insoportable de principio a fin. La fotografía parece amateur. Desperdicio absoluto de tiempo.,1.4,María,Dune,test
+703,Grata sorpresa. La fotografía es preciosa. Recomendada.,4.3,Diego,Whiplash,train
+785,Sólida de principio a fin. El clímax emociona. Recomendada.,4.1,Carlos,Dune,test
+614,Grata sorpresa. El guion mantiene el suspense. Seguro la veré otra vez.,4.3,Carlos,Roma,train
+966,Obra maestra. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.8,Lucía,Interstellar,valid
+172,Horrible experiencia. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.5,Lucía,Coco,valid
+346,Decepcionante pero con algún destello. La música intenta levantar la historia. Le falta alma.,2.1,Diego,Roma,train
+823,Cine del bueno. Profundamente conmovedora. Salí conmovido.,4.7,Diego,1917,train
+878,Obra maestra. Fotografía y música sobresalientes. Inolvidable.,4.6,Ana,Coco,train
+148,Dos horas perdidas. El sonido es confuso. Desperdicio absoluto de tiempo.,1.8,Diego,Coco,train
+549,Aceptable. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.8,Carlos,Roma,train
+643,Grata sorpresa. El guion mantiene el suspense. Vale la entrada.,4.5,FHG,Interstellar,train
+972,Maravillosa. Guion impecable y actuaciones memorables. La mejor del año.,4.6,Diego,Parasite,valid
+935,Cine del bueno. Profundamente conmovedora. Salí conmovido.,4.8,Ana,Interstellar,train
+185,Insoportable de principio a fin. Las actuaciones son de cartón. Una completa decepción.,1.2,Diego,Arrival,test
+608,Buen entretenimiento. El guion mantiene el suspense. Seguro la veré otra vez.,4.4,Diego,1917,train
+438,"Regular en casi todo. Algunos chistes caen planos. Cumple, aunque no sorprende.",3.4,María,Coco,train
+267,"Decepcionante pero con algún destello. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,Carlos,Interstellar,train
+809,Obra maestra. Profundamente conmovedora. Inolvidable.,4.7,Carlos,Spider‑Verse,train
+448,Correcta pero olvidable. El reparto funciona a medias. Seguramente la olvidaré pronto.,3.4,Diego,Arrival,train
+714,Sólida de principio a fin. El humor está bien medido. Seguro la veré otra vez.,4.3,Carlos,Dune,train
+115,Insoportable de principio a fin. El montaje es caótico. Le pongo la peor nota posible.,1.6,FHG,Coco,train
+657,Buen entretenimiento. El guion mantiene el suspense. Salí contento del cine.,4.0,Ana,The Dark Knight,train
+986,Maravillosa. Fotografía y música sobresalientes. Una joya absoluta.,4.8,Lucía,Whiplash,test
+427,Tiene luces y sombras. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.7,Ana,Joker,train
+6,Horrible experiencia. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.1,FHG,Joker,train
+641,Recomendable. Las actuaciones brillan. Recomendada.,4.1,María,Coco,train
+987,Maravillosa. Profundamente conmovedora. La mejor del año.,4.8,María,La La Land,test
+933,Impresionante. Profundamente conmovedora. La mejor del año.,4.8,Lucía,Interstellar,train
+42,Pésima película. El montaje es caótico. Se siente eterna y vacía.,1.8,Lucía,Coco,train
+135,Dos horas perdidas. El montaje es caótico. Salí del cine antes de que terminara.,1.3,Ana,The Dark Knight,train
+939,Excepcional. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.8,Lucía,Spider‑Verse,train
+815,Excepcional. Fotografía y música sobresalientes. La mejor del año.,4.6,Ana,Coco,train
+995,Impresionante. Te atrapa desde el primer minuto. La vería mil veces.,4.9,Lucía,Interstellar,test
+806,Impresionante. Guion impecable y actuaciones memorables. La vería mil veces.,5.0,María,Soul,train
+559,Regular en casi todo. Buenos efectos aunque la historia es cliché. Salí neutral.,3.6,Diego,Parasite,train
+876,Maravillosa. Guion impecable y actuaciones memorables. La mejor del año.,4.9,María,Soul,train
+934,Maravillosa. Profundamente conmovedora. Se queda grabada en la memoria.,4.7,Lucía,Coco,train
+862,Inolvidable. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,4.7,Diego,Whiplash,train
+869,Inolvidable. Cada plano es arte puro. La mejor del año.,5.0,FHG,Roma,train
+793,"Sólida de principio a fin. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.2,Ana,Parasite,test
+929,Obra maestra. Te atrapa desde el primer minuto. Una joya absoluta.,4.9,Diego,Coco,train
+247,Decepcionante pero con algún destello. El final es predecible. Solo la salva la banda sonora.,2.1,Ana,Interstellar,train
+765,Sólida de principio a fin. El humor está bien medido. Seguro la veré otra vez.,4.4,Ana,Mad Max: Fury Road,valid
+940,Impresionante. Profundamente conmovedora. Se queda grabada en la memoria.,4.6,María,Parasite,train
+49,Horrible experiencia. La fotografía parece amateur. Se siente eterna y vacía.,1.7,FHG,Coco,train
+829,Impresionante. Profundamente conmovedora. La vería mil veces.,4.7,Carlos,Coco,train
+617,Recomendable. La fotografía es preciosa. Vale la entrada.,4.4,FHG,The Dark Knight,train
+317,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.6,Carlos,Everything Everywhere All at Once,train
+447,Tiene luces y sombras. La ambientación destaca sobre el guion. Ideal para una tarde lluviosa.,3.0,Ana,Joker,train
+314,Esperaba más. Los personajes están poco desarrollados. Una pena.,2.7,Lucía,Interstellar,train
+417,Correcta pero olvidable. El ritmo mantiene la atención. Salí neutral.,3.1,María,Parasite,train
+572,Entretenida sin más. Algunos chistes caen planos. Salí neutral.,3.7,Carlos,Everything Everywhere All at Once,valid
+922,Inolvidable. Cada plano es arte puro. Salí conmovido.,4.7,Ana,Soul,train
+104,Horrible experiencia. El guion no tiene sentido. Se siente eterna y vacía.,1.1,Lucía,Joker,train
+542,Aceptable. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.2,FHG,Spider‑Verse,train
+892,Inolvidable. Fotografía y música sobresalientes. La mejor del año.,4.6,Lucía,Everything Everywhere All at Once,train
+661,Muy disfrutable. El humor está bien medido. Salí contento del cine.,4.2,María,Arrival,train
+36,Pésima película. El guion no tiene sentido. Salí del cine antes de que terminara.,1.8,Ana,Parasite,train
+870,Impresionante. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.6,Lucía,Interstellar,train
+917,Maravillosa. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.8,María,Everything Everywhere All at Once,train
+103,Pésima película. El montaje es caótico. Desperdicio absoluto de tiempo.,1.3,FHG,Parasite,train
+792,"Sólida de principio a fin. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.3,Diego,Roma,test
+53,Insoportable de principio a fin. Los diálogos dan vergüenza ajena. Salí del cine antes de que terminara.,1.3,Ana,Dune,train
+201,Floja en casi todo. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.2,Carlos,Spider‑Verse,train
+5,Dos horas perdidas. El guion no tiene sentido. Ni gratis la volvería a ver.,1.3,FHG,The Dark Knight,train
+954,Impresionante. Te atrapa desde el primer minuto. La mejor del año.,5.0,María,Parasite,train
+454,Tiene luces y sombras. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.1,FHG,Interstellar,train
+715,Me gustó bastante. La música te envuelve. Seguro la veré otra vez.,4.3,Ana,Parasite,train
+477,Está bien para pasar el rato. El reparto funciona a medias. No destaca pero tampoco ofende.,3.8,FHG,The Dark Knight,train
+471,Tiene luces y sombras. La ambientación destaca sobre el guion. Salí neutral.,3.7,FHG,Roma,train
+600,Correcta pero olvidable. Algunos chistes caen planos. Salí neutral.,3.2,Carlos,Spider‑Verse,test
+647,Recomendable. El humor está bien medido. Vale la entrada.,4.5,FHG,Spider‑Verse,train
+236,"Floja en casi todo. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.0,Ana,Spider‑Verse,train
+794,"Muy disfrutable. El clímax emociona. Con pequeños fallos, pero funciona.",4.4,FHG,Interstellar,test
+973,Impresionante. Fotografía y música sobresalientes. Inolvidable.,4.7,FHG,1917,valid
+299,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Solo la salva la banda sonora.,2.5,Ana,La La Land,train
+857,Obra maestra. Te atrapa desde el primer minuto. La mejor del año.,4.8,Lucía,Mad Max: Fury Road,train
+262,"Decepcionante pero con algún destello. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.4,Diego,Roma,train
+58,Pésima película. El montaje es caótico. Le pongo la peor nota posible.,1.2,FHG,1917,train
+165,No la recomiendo en absoluto. El sonido es confuso. Le pongo la peor nota posible.,1.7,Diego,The Dark Knight,valid
+759,Grata sorpresa. El guion mantiene el suspense. Salí contento del cine.,4.1,María,Interstellar,train
+697,Muy disfrutable. Las actuaciones brillan. Salí contento del cine.,4.1,María,Arrival,train
+56,Pésima película. La fotografía parece amateur. Una completa decepción.,1.5,Lucía,Dune,train
+967,Excepcional. Guion impecable y actuaciones memorables. La vería mil veces.,5.0,FHG,La La Land,valid
+29,Pésima película. El sonido es confuso. Salí del cine antes de que terminara.,1.1,María,Coco,train
+924,Cine del bueno. Cada plano es arte puro. Salí conmovido.,4.7,Lucía,Interstellar,train
+189,Dos horas perdidas. El montaje es caótico. Desperdicio absoluto de tiempo.,1.8,Ana,Whiplash,test
+670,Buen entretenimiento. El clímax emociona. Recomendada.,4.2,Diego,Arrival,train
+689,"Me gustó bastante. El clímax emociona. Con pequeños fallos, pero funciona.",4.4,Carlos,Soul,train
+376,Quedó debiendo muchísimo. La trama se desinfla a mitad. Algo rescata la fotografía.,2.6,Lucía,Mad Max: Fury Road,valid
+799,Recomendable. Las actuaciones brillan. Salí contento del cine.,4.1,María,The Dark Knight,test
+309,No cumple lo prometido. La música intenta levantar la historia. Algo rescata la fotografía.,2.2,Carlos,Whiplash,train
+55,Dos horas perdidas. Los diálogos dan vergüenza ajena. Ni gratis la volvería a ver.,1.4,Ana,Roma,train
+118,Insoportable de principio a fin. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.0,Diego,Whiplash,train
+693,"Muy disfrutable. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.2,FHG,Parasite,train
+205,"No cumple lo prometido. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.6,Diego,Dune,train
+899,Maravillosa. Fotografía y música sobresalientes. La mejor del año.,4.9,María,Coco,train
+304,Floja en casi todo. El ritmo es irregular. Una pena.,2.6,Carlos,Parasite,train
+261,"Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.4,FHG,Interstellar,train
+32,Dos horas perdidas. El montaje es caótico. Desperdicio absoluto de tiempo.,1.6,Diego,Arrival,train
+486,Está bien para pasar el rato. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.8,Lucía,Whiplash,train
+860,Obra maestra. Fotografía y música sobresalientes. Inolvidable.,4.9,FHG,Mad Max: Fury Road,train
+37,Pésima película. La fotografía parece amateur. Le pongo la peor nota posible.,1.0,FHG,Roma,train
+163,Insoportable de principio a fin. El sonido es confuso. Una completa decepción.,1.2,Diego,Parasite,valid
+483,Tiene luces y sombras. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.8,Carlos,Spider‑Verse,train
+808,Impresionante. Cada plano es arte puro. La mejor del año.,5.0,María,Interstellar,train
+846,Maravillosa. Guion impecable y actuaciones memorables. La mejor del año.,4.9,Diego,Spider‑Verse,train
+836,Maravillosa. Profundamente conmovedora. Inolvidable.,4.7,Carlos,The Dark Knight,train
+923,Inolvidable. Te atrapa desde el primer minuto. La mejor del año.,5.0,Carlos,Parasite,train
+745,Me gustó bastante. El clímax emociona. Seguro la veré otra vez.,4.5,Ana,Dune,train
+385,Decepcionante pero con algún destello. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.7,Diego,La La Land,test
+750,Muy disfrutable. El humor está bien medido. Buen trabajo del director.,4.2,Diego,Whiplash,train
+101,Pésima película. El sonido es confuso. Ni gratis la volvería a ver.,1.6,María,Roma,train
+690,Grata sorpresa. La música te envuelve. Seguro la veré otra vez.,4.1,FHG,Roma,train
+227,"Se queda a medias. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.6,María,Soul,train
+457,Aceptable. Nada sorprende pero nada ofende. Salí neutral.,3.5,FHG,Arrival,train
+398,"No cumple lo prometido. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,Carlos,Everything Everywhere All at Once,test
+675,"Buen entretenimiento. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.3,Lucía,1917,train
+268,Esperaba más. La música intenta levantar la historia. Una pena.,2.7,Carlos,The Dark Knight,train
+374,"Quedó debiendo muchísimo. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,Lucía,Coco,valid
+678,Me gustó bastante. La música te envuelve. Recomendada.,4.1,María,Soul,train
+932,Maravillosa. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,5.0,Carlos,Spider‑Verse,train
+186,Dos horas perdidas. Los diálogos dan vergüenza ajena. Una completa decepción.,1.9,Diego,Everything Everywhere All at Once,test
+336,"No cumple lo prometido. El ritmo es irregular. Si no hay nada más, tal vez la pongas de fondo.",2.1,FHG,Mad Max: Fury Road,train
+812,Impresionante. Cada plano es arte puro. La mejor del año.,4.7,Diego,Joker,train
+389,"Esperaba más. El final es predecible. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,FHG,Dune,test
+79,Insoportable de principio a fin. El montaje es caótico. Salí del cine antes de que terminara.,1.7,Diego,Joker,train
+770,"Muy disfrutable. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.5,FHG,The Dark Knight,valid
+752,Buen entretenimiento. Las actuaciones brillan. Buen trabajo del director.,4.4,Ana,Mad Max: Fury Road,train
+345,Esperaba más. Los personajes están poco desarrollados. Le falta alma.,2.1,María,Mad Max: Fury Road,train
+80,No la recomiendo en absoluto. El sonido es confuso. Una completa decepción.,1.4,Lucía,1917,train
+178,Pésima película. Los diálogos dan vergüenza ajena. Desperdicio absoluto de tiempo.,1.7,FHG,Coco,valid
+658,Me gustó bastante. El clímax emociona. Seguro la veré otra vez.,4.4,Carlos,Soul,train
+211,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Algo rescata la fotografía.,2.2,Lucía,Mad Max: Fury Road,train
+382,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.0,FHG,Spider‑Verse,test
+513,Regular en casi todo. Algunos chistes caen planos. No destaca pero tampoco ofende.,3.9,Carlos,Parasite,train
+686,Recomendable. El humor está bien medido. Recomendada.,4.0,María,Whiplash,train
+998,Cine del bueno. Guion impecable y actuaciones memorables. La vería mil veces.,4.9,Carlos,Dune,test
+928,Inolvidable. Una montaña rusa de emociones. Salí conmovido.,4.7,Lucía,Whiplash,train
+377,"Floja en casi todo. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,Ana,Joker,valid
+789,Muy disfrutable. La fotografía es preciosa. Buen trabajo del director.,4.4,Ana,La La Land,test
+92,Horrible experiencia. La fotografía parece amateur. Se siente eterna y vacía.,1.7,Carlos,Spider‑Verse,train
+171,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Una completa decepción.,1.8,Diego,Whiplash,valid
+585,"Correcta pero olvidable. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.4,Ana,Mad Max: Fury Road,test
+91,Dos horas perdidas. El guion no tiene sentido. Se siente eterna y vacía.,1.3,Diego,Coco,train
+76,No la recomiendo en absoluto. El guion no tiene sentido. Le pongo la peor nota posible.,1.8,María,Coco,train
+748,Grata sorpresa. El guion mantiene el suspense. Buen trabajo del director.,4.5,Carlos,Arrival,train
+970,Inolvidable. Profundamente conmovedora. La mejor del año.,4.9,Diego,Coco,valid
+369,Esperaba más. El ritmo es irregular. Le falta alma.,2.7,FHG,Spider‑Verse,valid
+894,Obra maestra. Fotografía y música sobresalientes. Salí conmovido.,4.9,María,Coco,train
+530,Tiene luces y sombras. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.7,Ana,La La Land,train
+871,Cine del bueno. Una montaña rusa de emociones. La vería mil veces.,5.0,Diego,Everything Everywhere All at Once,train
+98,Simplemente nefasta. El montaje es caótico. Una completa decepción.,1.7,Ana,Coco,train
+898,Cine del bueno. Cada plano es arte puro. Inolvidable.,5.0,FHG,Arrival,train
+273,Esperaba más. El ritmo es irregular. Solo la salva la banda sonora.,2.1,Ana,1917,train
+882,Cine del bueno. Te atrapa desde el primer minuto. La mejor del año.,4.9,Diego,Joker,train
+937,Impresionante. Profundamente conmovedora. Una joya absoluta.,4.8,Ana,Arrival,train
+271,Quedó debiendo muchísimo. El final es predecible. Una pena.,2.6,María,1917,train
+709,"Grata sorpresa. El humor está bien medido. Con pequeños fallos, pero funciona.",4.2,Lucía,1917,train
+484,Entretenida sin más. Buenos efectos aunque la historia es cliché. Ideal para una tarde lluviosa.,3.9,Diego,Arrival,train
+611,"Sólida de principio a fin. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.5,María,Dune,train
+432,"Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.4,FHG,Soul,train
+755,Me gustó bastante. El humor está bien medido. Vale la entrada.,4.0,Lucía,Parasite,train
+730,Recomendable. Las actuaciones brillan. Seguro la veré otra vez.,4.0,Diego,Spider‑Verse,train
+280,Quedó debiendo muchísimo. El ritmo es irregular. Algo rescata la fotografía.,2.3,Lucía,Spider‑Verse,train
+14,Dos horas perdidas. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.4,Carlos,Everything Everywhere All at Once,train
+944,Inolvidable. Una montaña rusa de emociones. Inolvidable.,4.9,FHG,Arrival,train
+396,"No cumple lo prometido. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.6,María,Whiplash,test
+811,Inolvidable. Te atrapa desde el primer minuto. La vería mil veces.,4.9,Diego,Arrival,train
+75,Horrible experiencia. La fotografía parece amateur. Una completa decepción.,1.4,FHG,Arrival,train
+240,Floja en casi todo. La música intenta levantar la historia. Algo rescata la fotografía.,2.2,Lucía,Soul,train
+276,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Una pena.,2.0,FHG,Roma,train
+506,Regular en casi todo. El reparto funciona a medias. Le doy un aprobado raspado.,3.4,Diego,1917,train
+237,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Algo rescata la fotografía.,2.2,Ana,Whiplash,train
+60,Horrible experiencia. Los diálogos dan vergüenza ajena. Ni gratis la volvería a ver.,1.4,Ana,La La Land,train
+921,Cine del bueno. Guion impecable y actuaciones memorables. Inolvidable.,5.0,Diego,Whiplash,train
+501,Tiene luces y sombras. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.4,Ana,La La Land,train
+968,Inolvidable. Te atrapa desde el primer minuto. Salí conmovido.,4.9,María,Spider‑Verse,valid
+152,Dos horas perdidas. El guion no tiene sentido. Una completa decepción.,1.2,Carlos,Parasite,train
+250,Esperaba más. El ritmo es irregular. Le falta alma.,2.1,Diego,La La Land,train
+654,"Me gustó bastante. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.1,Ana,Mad Max: Fury Road,train
+12,Insoportable de principio a fin. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.2,FHG,Soul,train
+253,Se queda a medias. El ritmo es irregular. Una pena.,2.8,Lucía,La La Land,train
+522,Regular en casi todo. Algunos chistes caen planos. Salí neutral.,3.1,Carlos,Joker,train
+228,Decepcionante pero con algún destello. La música intenta levantar la historia. Le falta alma.,2.4,Diego,Arrival,train
+895,Cine del bueno. Te atrapa desde el primer minuto. La vería mil veces.,4.7,Diego,Coco,train
+942,Obra maestra. Profundamente conmovedora. Inolvidable.,4.8,Lucía,Roma,train
+286,"Quedó debiendo muchísimo. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.3,Lucía,Parasite,train
+463,Aceptable. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.3,FHG,Interstellar,train
+371,"Floja en casi todo. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.6,María,Spider‑Verse,valid
+96,Pésima película. El sonido es confuso. Le pongo la peor nota posible.,1.3,María,1917,train
+622,"Sólida de principio a fin. El clímax emociona. Con pequeños fallos, pero funciona.",4.3,Ana,Interstellar,train
+416,Regular en casi todo. Buenos efectos aunque la historia es cliché. Salí neutral.,3.1,Diego,Arrival,train
+717,Muy disfrutable. El guion mantiene el suspense. Seguro la veré otra vez.,4.2,María,Everything Everywhere All at Once,train
+292,Floja en casi todo. El final es predecible. Algo rescata la fotografía.,2.0,Ana,Roma,train
+274,Esperaba más. El final es predecible. Algo rescata la fotografía.,2.6,Carlos,Mad Max: Fury Road,train
+936,Impresionante. Guion impecable y actuaciones memorables. La vería mil veces.,4.8,María,Whiplash,train
+802,Impresionante. Te atrapa desde el primer minuto. Inolvidable.,4.9,Diego,Everything Everywhere All at Once,train
+445,Está bien para pasar el rato. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.7,FHG,Joker,train
+281,Quedó debiendo muchísimo. La trama se desinfla a mitad. Algo rescata la fotografía.,2.8,María,Soul,train
+270,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.3,María,Arrival,train
+344,"Esperaba más. El final es predecible. No la odié, pero tampoco la disfrutaría de nuevo.",2.2,Ana,Dune,train
+803,Maravillosa. Fotografía y música sobresalientes. La vería mil veces.,4.7,FHG,Interstellar,train
+407,Tiene luces y sombras. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.6,Ana,Everything Everywhere All at Once,train
+364,Decepcionante pero con algún destello. El final es predecible. Le falta alma.,2.1,Carlos,La La Land,valid
+108,No la recomiendo en absoluto. El sonido es confuso. Salí del cine antes de que terminara.,1.1,FHG,Dune,train
+523,Tiene luces y sombras. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.1,María,Whiplash,train
+800,Me gustó bastante. La fotografía es preciosa. Seguro la veré otra vez.,4.4,Lucía,Parasite,test
+740,"Muy disfrutable. El clímax emociona. Con pequeños fallos, pero funciona.",4.2,María,Mad Max: Fury Road,train
+349,Decepcionante pero con algún destello. La música intenta levantar la historia. Algo rescata la fotografía.,2.0,Ana,Whiplash,train
+397,Se queda a medias. El ritmo es irregular. Una pena.,2.6,Lucía,Soul,test
+710,Recomendable. El guion mantiene el suspense. Vale la entrada.,4.1,FHG,Coco,train
+295,Esperaba más. El final es predecible. Una pena.,2.7,María,Joker,train
+996,Inolvidable. Cada plano es arte puro. La mejor del año.,4.8,Carlos,Interstellar,test
+969,Cine del bueno. Una montaña rusa de emociones. Inolvidable.,5.0,Lucía,Coco,valid
+672,Sólida de principio a fin. El humor está bien medido. Recomendada.,4.3,Diego,Mad Max: Fury Road,train
+352,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.4,FHG,Parasite,train
+959,Excepcional. Te atrapa desde el primer minuto. Una joya absoluta.,4.9,María,Roma,train
+368,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Solo la salva la banda sonora.,2.3,Ana,Mad Max: Fury Road,valid
+422,Regular en casi todo. Nada sorprende pero nada ofende. Le doy un aprobado raspado.,3.4,Carlos,The Dark Knight,train
+753,Muy disfrutable. La música te envuelve. Salí contento del cine.,4.5,FHG,Arrival,train
+238,"No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.3,FHG,Parasite,train
+810,Impresionante. Una montaña rusa de emociones. Una joya absoluta.,4.8,Ana,La La Land,train
+779,Me gustó bastante. El guion mantiene el suspense. Salí contento del cine.,4.5,FHG,Dune,valid
+904,Maravillosa. Una montaña rusa de emociones. Salí conmovido.,4.9,Ana,Parasite,train
+915,Impresionante. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.8,Lucía,Parasite,train
+888,Impresionante. Una montaña rusa de emociones. Salí conmovido.,4.8,Lucía,La La Land,train
+947,Maravillosa. Una montaña rusa de emociones. Inolvidable.,4.9,Carlos,Arrival,train
+724,"Grata sorpresa. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.3,María,The Dark Knight,train
+241,Quedó debiendo muchísimo. El ritmo es irregular. Algo rescata la fotografía.,2.6,María,Whiplash,train
+557,Entretenida sin más. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.2,Lucía,Dune,train
+599,Correcta pero olvidable. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.5,Carlos,The Dark Knight,test
+459,Aceptable. El reparto funciona a medias. Le doy un aprobado raspado.,3.4,FHG,Coco,train
+587,Está bien para pasar el rato. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.7,Lucía,Coco,test
+179,Horrible experiencia. Las actuaciones son de cartón. Ni gratis la volvería a ver.,1.3,Ana,Interstellar,valid
+499,Aceptable. Algunos chistes caen planos. No destaca pero tampoco ofende.,3.2,Ana,La La Land,train
+244,No cumple lo prometido. La música intenta levantar la historia. Le falta alma.,2.5,Ana,Dune,train
+315,"Se queda a medias. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.2,FHG,Arrival,train
+203,No cumple lo prometido. Los personajes están poco desarrollados. Una pena.,2.7,Lucía,Coco,train
+301,"Quedó debiendo muchísimo. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.7,María,1917,train
+683,Me gustó bastante. El clímax emociona. Buen trabajo del director.,4.1,Ana,1917,train
+231,"Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,María,The Dark Knight,train
+307,Decepcionante pero con algún destello. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.5,FHG,Coco,train
+167,Horrible experiencia. El montaje es caótico. Le pongo la peor nota posible.,1.8,María,Interstellar,valid
+621,Me gustó bastante. El guion mantiene el suspense. Salí contento del cine.,4.3,Ana,Mad Max: Fury Road,train
+725,"Me gustó bastante. El clímax emociona. Con pequeños fallos, pero funciona.",4.2,Carlos,Soul,train
+264,"Se queda a medias. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.7,Ana,La La Land,train
+327,Floja en casi todo. El final es predecible. Algo rescata la fotografía.,2.8,Diego,Coco,train
+233,"No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.1,María,The Dark Knight,train
+151,Horrible experiencia. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.5,Diego,Whiplash,train
+470,Correcta pero olvidable. La ambientación destaca sobre el guion. Ideal para una tarde lluviosa.,3.7,María,Arrival,train
+133,Simplemente nefasta. El guion no tiene sentido. Le pongo la peor nota posible.,1.8,Ana,Joker,train
+10,Dos horas perdidas. El montaje es caótico. Se siente eterna y vacía.,1.4,Diego,Roma,train
+255,Floja en casi todo. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.1,María,Mad Max: Fury Road,train
+953,Maravillosa. Profundamente conmovedora. Salí conmovido.,5.0,Ana,Parasite,train
+380,"Se queda a medias. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.2,Diego,Coco,valid
+582,Regular en casi todo. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.1,Lucía,Dune,test
+83,Simplemente nefasta. El sonido es confuso. Ni gratis la volvería a ver.,1.1,Lucía,Interstellar,train
+65,Simplemente nefasta. El sonido es confuso. Le pongo la peor nota posible.,1.7,FHG,The Dark Knight,train
+768,Muy disfrutable. El humor está bien medido. Salí contento del cine.,4.1,Diego,Coco,valid
+370,Decepcionante pero con algún destello. La trama se desinfla a mitad. Algo rescata la fotografía.,2.6,FHG,Joker,valid
+529,Está bien para pasar el rato. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.5,FHG,Mad Max: Fury Road,train
+450,"Aceptable. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.8,Diego,Spider‑Verse,train
+120,Simplemente nefasta. El sonido es confuso. Le pongo la peor nota posible.,1.6,FHG,Interstellar,train
+774,Buen entretenimiento. La fotografía es preciosa. Vale la entrada.,4.3,María,Everything Everywhere All at Once,valid
+778,Muy disfrutable. La fotografía es preciosa. Recomendada.,4.1,Diego,Whiplash,valid
+665,Recomendable. Las actuaciones brillan. Salí contento del cine.,4.2,María,Everything Everywhere All at Once,train
+519,Está bien para pasar el rato. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.6,Lucía,The Dark Knight,train
+111,Insoportable de principio a fin. El montaje es caótico. Salí del cine antes de que terminara.,1.9,Ana,Spider‑Verse,train
+705,"Buen entretenimiento. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.5,Lucía,La La Land,train
+961,Maravillosa. Te atrapa desde el primer minuto. Salí conmovido.,4.6,Diego,Joker,valid
+980,Cine del bueno. Cada plano es arte puro. La mejor del año.,4.9,Carlos,Whiplash,valid
+712,Me gustó bastante. El guion mantiene el suspense. Vale la entrada.,4.2,María,Whiplash,train
+122,Simplemente nefasta. El montaje es caótico. Se siente eterna y vacía.,1.3,Lucía,Roma,train
+713,Grata sorpresa. El clímax emociona. Buen trabajo del director.,4.3,FHG,Everything Everywhere All at Once,train
+544,Correcta pero olvidable. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.1,FHG,Coco,train
+479,"Está bien para pasar el rato. La ambientación destaca sobre el guion. Cumple, aunque no sorprende.",3.4,María,La La Land,train
+624,Buen entretenimiento. El humor está bien medido. Salí contento del cine.,4.3,Ana,Mad Max: Fury Road,train
+493,Está bien para pasar el rato. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.2,Carlos,Mad Max: Fury Road,train
+679,"Sólida de principio a fin. El humor está bien medido. Con pequeños fallos, pero funciona.",4.4,María,Dune,train
+859,Inolvidable. Una montaña rusa de emociones. Inolvidable.,4.9,Ana,La La Land,train
+400,Esperaba más. Los personajes están poco desarrollados. Le falta alma.,2.1,FHG,Everything Everywhere All at Once,test
+41,No la recomiendo en absoluto. El sonido es confuso. Le pongo la peor nota posible.,1.7,FHG,Joker,train
+711,Muy disfrutable. La música te envuelve. Seguro la veré otra vez.,4.0,Lucía,Dune,train
+218,"No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.9,Ana,La La Land,train
+308,Se queda a medias. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.0,Diego,Roma,train
+524,Aceptable. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.3,Lucía,Whiplash,train
+821,Obra maestra. Profundamente conmovedora. La vería mil veces.,5.0,María,Mad Max: Fury Road,train
+158,Pésima película. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.3,Diego,Soul,train
+251,"Esperaba más. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.5,María,Spider‑Verse,train
+125,Insoportable de principio a fin. Los diálogos dan vergüenza ajena. Desperdicio absoluto de tiempo.,1.1,María,Joker,train
+975,Obra maestra. Profundamente conmovedora. La mejor del año.,4.7,FHG,Dune,valid
+330,"Floja en casi todo. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.2,Carlos,Arrival,train
+350,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Solo la salva la banda sonora.,2.8,FHG,Everything Everywhere All at Once,train
+786,Grata sorpresa. La música te envuelve. Vale la entrada.,4.3,FHG,Joker,test
+464,Regular en casi todo. Algunos chistes caen planos. Le doy un aprobado raspado.,3.0,María,Interstellar,train
+170,Dos horas perdidas. El montaje es caótico. Se siente eterna y vacía.,1.2,Carlos,Parasite,valid
+375,"No cumple lo prometido. El final es predecible. No la odié, pero tampoco la disfrutaría de nuevo.",2.5,Lucía,Dune,valid
+919,Excepcional. Te atrapa desde el primer minuto. Inolvidable.,4.7,María,Joker,train
+525,Regular en casi todo. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.3,Carlos,The Dark Knight,train
+35,Insoportable de principio a fin. El guion no tiene sentido. Se siente eterna y vacía.,1.7,María,Parasite,train
+855,Obra maestra. Una montaña rusa de emociones. La vería mil veces.,4.8,FHG,Whiplash,train
+310,Se queda a medias. La música intenta levantar la historia. Una pena.,2.2,FHG,Interstellar,train
+761,Buen entretenimiento. La música te envuelve. Recomendada.,4.0,Ana,La La Land,valid
+164,Dos horas perdidas. Los diálogos dan vergüenza ajena. Una completa decepción.,1.8,Ana,1917,valid
+160,Horrible experiencia. El guion no tiene sentido. Le pongo la peor nota posible.,1.4,FHG,Coco,train
+288,Decepcionante pero con algún destello. La música intenta levantar la historia. Algo rescata la fotografía.,2.4,Carlos,La La Land,train
+184,Dos horas perdidas. La fotografía parece amateur. Le pongo la peor nota posible.,1.4,Ana,Everything Everywhere All at Once,test
+606,"Muy disfrutable. La música te envuelve. Con pequeños fallos, pero funciona.",4.4,Ana,Spider‑Verse,train
+458,Tiene luces y sombras. Nada sorprende pero nada ofende. No destaca pero tampoco ofende.,3.9,Diego,Soul,train
+568,Está bien para pasar el rato. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.8,Diego,Roma,valid
+22,Insoportable de principio a fin. El guion no tiene sentido. Se siente eterna y vacía.,1.3,FHG,Interstellar,train
+736,Buen entretenimiento. Las actuaciones brillan. Vale la entrada.,4.0,Carlos,Interstellar,train
+777,Grata sorpresa. La fotografía es preciosa. Recomendada.,4.4,Carlos,Roma,valid
+284,Floja en casi todo. El final es predecible. Solo la salva la banda sonora.,2.2,Diego,Soul,train
+872,Maravillosa. Una montaña rusa de emociones. La vería mil veces.,5.0,Lucía,Dune,train
+971,Obra maestra. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.7,Diego,Whiplash,valid
+722,"Recomendable. La música te envuelve. Con pequeños fallos, pero funciona.",4.0,Carlos,Spider‑Verse,train
+562,"Regular en casi todo. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.8,FHG,Dune,valid
+161,No la recomiendo en absoluto. La fotografía parece amateur. Salí del cine antes de que terminara.,1.6,Carlos,La La Land,valid
+426,Correcta pero olvidable. El reparto funciona a medias. Le doy un aprobado raspado.,3.8,María,La La Land,train
+121,Horrible experiencia. Las actuaciones son de cartón. Una completa decepción.,1.6,Ana,Spider‑Verse,train
+390,Se queda a medias. La trama se desinfla a mitad. Una pena.,2.8,Carlos,1917,test
+128,Pésima película. El montaje es caótico. Desperdicio absoluto de tiempo.,1.3,María,Roma,train
+492,"Tiene luces y sombras. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.3,María,Interstellar,train
+754,Recomendable. La música te envuelve. Vale la entrada.,4.3,Ana,Whiplash,train
+81,No la recomiendo en absoluto. El guion no tiene sentido. Una completa decepción.,1.7,Carlos,Interstellar,train
+775,Grata sorpresa. La música te envuelve. Seguro la veré otra vez.,4.3,FHG,Mad Max: Fury Road,valid
+518,Entretenida sin más. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.4,María,Parasite,train
+805,Inolvidable. Te atrapa desde el primer minuto. Salí conmovido.,4.8,Ana,Whiplash,train
+839,Cine del bueno. Profundamente conmovedora. La mejor del año.,4.7,Diego,Everything Everywhere All at Once,train
+149,No la recomiendo en absoluto. La fotografía parece amateur. Salí del cine antes de que terminara.,1.5,FHG,Spider‑Verse,train
+193,Simplemente nefasta. El guion no tiene sentido. Le pongo la peor nota posible.,1.5,FHG,The Dark Knight,test
+23,Dos horas perdidas. El guion no tiene sentido. Se siente eterna y vacía.,1.3,Diego,Roma,train
+182,No la recomiendo en absoluto. Las actuaciones son de cartón. Desperdicio absoluto de tiempo.,1.3,Ana,The Dark Knight,test
+430,Correcta pero olvidable. Nada sorprende pero nada ofende. No destaca pero tampoco ofende.,3.7,Ana,Arrival,train
+176,Insoportable de principio a fin. Las actuaciones son de cartón. Salí del cine antes de que terminara.,1.2,FHG,Everything Everywhere All at Once,valid
+734,Sólida de principio a fin. La fotografía es preciosa. Seguro la veré otra vez.,4.4,FHG,Everything Everywhere All at Once,train
+123,Simplemente nefasta. La fotografía parece amateur. Salí del cine antes de que terminara.,1.4,María,La La Land,train
+858,Cine del bueno. Te atrapa desde el primer minuto. La mejor del año.,4.6,Carlos,Soul,train
+951,Cine del bueno. Guion impecable y actuaciones memorables. Una joya absoluta.,4.9,Carlos,The Dark Knight,train
+983,Maravillosa. Profundamente conmovedora. La mejor del año.,4.7,Lucía,Spider‑Verse,test
+850,Cine del bueno. Una montaña rusa de emociones. La mejor del año.,4.8,María,Everything Everywhere All at Once,train
+864,Cine del bueno. Una montaña rusa de emociones. Se queda grabada en la memoria.,4.9,Carlos,Everything Everywhere All at Once,train
+213,"Se queda a medias. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.7,Ana,Interstellar,train
+67,Pésima película. Las actuaciones son de cartón. Le pongo la peor nota posible.,1.1,Ana,1917,train
+581,Está bien para pasar el rato. La ambientación destaca sobre el guion. Salí neutral.,3.7,Carlos,La La Land,test
+285,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Una pena.,2.3,Ana,Coco,train
+191,Horrible experiencia. La fotografía parece amateur. Salí del cine antes de que terminara.,1.5,Ana,Mad Max: Fury Road,test
+85,No la recomiendo en absoluto. Las actuaciones son de cartón. Una completa decepción.,1.7,Diego,Coco,train
+243,"Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.2,Carlos,Parasite,train
+653,"Me gustó bastante. El humor está bien medido. Con pequeños fallos, pero funciona.",4.2,Ana,Parasite,train
+548,Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.1,Carlos,Soul,train
+156,Dos horas perdidas. El montaje es caótico. Desperdicio absoluto de tiempo.,1.8,Diego,1917,train
+332,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.2,Carlos,1917,train
+884,Cine del bueno. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.8,Ana,Everything Everywhere All at Once,train
+357,No cumple lo prometido. El ritmo es irregular. Solo la salva la banda sonora.,2.2,Diego,Whiplash,train
+841,Impresionante. Una montaña rusa de emociones. La vería mil veces.,4.9,Diego,Roma,train
+903,Excepcional. Una montaña rusa de emociones. Inolvidable.,4.6,Carlos,Soul,train
+102,Horrible experiencia. El montaje es caótico. Se siente eterna y vacía.,1.1,Carlos,1917,train
+229,Quedó debiendo muchísimo. La música intenta levantar la historia. Solo la salva la banda sonora.,2.2,Carlos,Parasite,train
+283,Decepcionante pero con algún destello. El ritmo es irregular. Algo rescata la fotografía.,2.3,María,Spider‑Verse,train
+671,Sólida de principio a fin. El clímax emociona. Seguro la veré otra vez.,4.3,Diego,Arrival,train
+798,Buen entretenimiento. El humor está bien medido. Seguro la veré otra vez.,4.2,Ana,1917,test
+988,Cine del bueno. Cada plano es arte puro. La vería mil veces.,4.6,Carlos,Spider‑Verse,test
+960,Maravillosa. Profundamente conmovedora. Salí conmovido.,4.6,María,Soul,train
+546,Tiene luces y sombras. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.5,FHG,Whiplash,train
+95,Dos horas perdidas. El montaje es caótico. Desperdicio absoluto de tiempo.,1.1,Diego,Parasite,train
+431,"Aceptable. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.8,Ana,Interstellar,train
+865,Cine del bueno. Profundamente conmovedora. La vería mil veces.,4.9,Ana,Roma,train
+279,Floja en casi todo. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.1,María,Soul,train
+758,Recomendable. El clímax emociona. Buen trabajo del director.,4.3,Lucía,1917,train
+566,Correcta pero olvidable. Nada sorprende pero nada ofende. Seguramente la olvidaré pronto.,3.0,Lucía,Interstellar,valid
+246,"Decepcionante pero con algún destello. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.0,Diego,1917,train
+333,Se queda a medias. El final es predecible. Le falta alma.,2.3,Lucía,Arrival,train
+535,Tiene luces y sombras. El ritmo mantiene la atención. Salí neutral.,3.2,María,Spider‑Verse,train
+569,Aceptable. El reparto funciona a medias. Le doy un aprobado raspado.,3.4,Lucía,1917,valid
+449,Regular en casi todo. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.7,Lucía,Roma,train
+949,Obra maestra. Cada plano es arte puro. Una joya absoluta.,4.8,Carlos,Mad Max: Fury Road,train
+290,Floja en casi todo. La trama se desinfla a mitad. Solo la salva la banda sonora.,2.3,Ana,Soul,train
+579,Tiene luces y sombras. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.4,Ana,Interstellar,valid
+143,Dos horas perdidas. El sonido es confuso. Desperdicio absoluto de tiempo.,1.1,Lucía,Coco,train
+512,Tiene luces y sombras. El reparto funciona a medias. Salí neutral.,3.3,Ana,Mad Max: Fury Road,train
+500,Aceptable. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.4,Diego,Everything Everywhere All at Once,train
+938,Inolvidable. Fotografía y música sobresalientes. La mejor del año.,4.7,FHG,Everything Everywhere All at Once,train
+685,Recomendable. El humor está bien medido. Recomendada.,4.3,Carlos,Joker,train
+293,Decepcionante pero con algún destello. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.9,María,Roma,train
+453,Está bien para pasar el rato. El reparto funciona a medias. Salí neutral.,3.0,Carlos,Soul,train
+46,Pésima película. La fotografía parece amateur. Una completa decepción.,1.7,Ana,Coco,train
+528,Entretenida sin más. El ritmo mantiene la atención. Salí neutral.,3.3,Carlos,Soul,train
+788,"Grata sorpresa. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.3,Lucía,Dune,test
+699,Buen entretenimiento. El guion mantiene el suspense. Vale la entrada.,4.4,Ana,Interstellar,train
+814,Obra maestra. Profundamente conmovedora. La vería mil veces.,4.9,Lucía,Dune,train
+840,Maravillosa. Te atrapa desde el primer minuto. La vería mil veces.,4.8,María,Spider‑Verse,train
+561,Está bien para pasar el rato. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.3,Ana,Mad Max: Fury Road,valid
+832,Maravillosa. Guion impecable y actuaciones memorables. Inolvidable.,4.9,María,Interstellar,train
+931,Maravillosa. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,4.9,María,La La Land,train
+27,No la recomiendo en absoluto. La fotografía parece amateur. Desperdicio absoluto de tiempo.,1.2,Diego,Interstellar,train
+363,Esperaba más. El ritmo es irregular. Solo la salva la banda sonora.,2.0,Carlos,Dune,valid
+269,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. Si no hay nada más, tal vez la pongas de fondo.",2.6,María,Joker,train
+64,Insoportable de principio a fin. La fotografía parece amateur. Una completa decepción.,1.5,FHG,1917,train
+994,Excepcional. Fotografía y música sobresalientes. La vería mil veces.,5.0,FHG,La La Land,test
+554,Está bien para pasar el rato. Algunos chistes caen planos. Salí neutral.,3.6,FHG,Dune,train
+974,Inolvidable. Guion impecable y actuaciones memorables. Salí conmovido.,4.7,Carlos,Roma,valid
+34,Insoportable de principio a fin. La fotografía parece amateur. Se siente eterna y vacía.,1.5,Carlos,La La Land,train
+547,Tiene luces y sombras. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.7,Diego,Interstellar,train
+851,Excepcional. Una montaña rusa de emociones. La vería mil veces.,4.7,FHG,Arrival,train
+618,"Buen entretenimiento. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.5,FHG,Coco,train
+119,Dos horas perdidas. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.3,Diego,La La Land,train
+16,Horrible experiencia. La fotografía parece amateur. Una completa decepción.,1.4,Diego,Roma,train
+539,Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. Ideal para una tarde lluviosa.,3.7,Carlos,Joker,train
+43,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Una completa decepción.,1.5,María,Dune,train
+655,Grata sorpresa. El guion mantiene el suspense. Buen trabajo del director.,4.2,Carlos,Whiplash,train
+731,"Buen entretenimiento. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.2,Lucía,Joker,train
+428,Aceptable. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.1,FHG,Coco,train
+175,Dos horas perdidas. Las actuaciones son de cartón. Una completa decepción.,1.4,Ana,Everything Everywhere All at Once,valid
+720,Muy disfrutable. La música te envuelve. Vale la entrada.,4.1,Ana,Everything Everywhere All at Once,train
+644,Grata sorpresa. El clímax emociona. Salí contento del cine.,4.1,Lucía,The Dark Knight,train
+592,"Tiene luces y sombras. El reparto funciona a medias. Cumple, aunque no sorprende.",3.3,FHG,Parasite,test
+456,Aceptable. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.6,Ana,Everything Everywhere All at Once,train
+735,Muy disfrutable. La música te envuelve. Vale la entrada.,4.4,Diego,1917,train
+94,Horrible experiencia. El montaje es caótico. Se siente eterna y vacía.,1.9,Ana,Roma,train
+910,Maravillosa. Profundamente conmovedora. La vería mil veces.,5.0,Ana,Everything Everywhere All at Once,train
+312,"Quedó debiendo muchísimo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.4,Diego,Soul,train
+488,Está bien para pasar el rato. La ambientación destaca sobre el guion. Salí neutral.,3.1,FHG,Joker,train
+555,"Entretenida sin más. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.4,Ana,Interstellar,train
+771,Me gustó bastante. La música te envuelve. Vale la entrada.,4.3,Carlos,Soul,valid
+532,Correcta pero olvidable. Algunos chistes caen planos. Le doy un aprobado raspado.,3.4,FHG,Mad Max: Fury Road,train
+154,Pésima película. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.1,FHG,Mad Max: Fury Road,train
+117,Simplemente nefasta. El guion no tiene sentido. Una completa decepción.,1.6,Diego,La La Land,train
+668,"Sólida de principio a fin. La música te envuelve. Con pequeños fallos, pero funciona.",4.3,FHG,The Dark Knight,train
+409,Entretenida sin más. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.3,FHG,Spider‑Verse,train
+469,Correcta pero olvidable. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.1,Carlos,Whiplash,train
+990,Excepcional. Cada plano es arte puro. La mejor del año.,4.9,FHG,The Dark Knight,test
+444,Está bien para pasar el rato. Algunos chistes caen planos. Salí neutral.,3.3,Lucía,1917,train
+695,Recomendable. Las actuaciones brillan. Salí contento del cine.,4.0,Lucía,1917,train
+849,Maravillosa. Una montaña rusa de emociones. La mejor del año.,4.7,Lucía,Joker,train
+19,Insoportable de principio a fin. El sonido es confuso. Le pongo la peor nota posible.,1.7,FHG,Dune,train
+24,Simplemente nefasta. El sonido es confuso. Ni gratis la volvería a ver.,1.9,Lucía,Mad Max: Fury Road,train
+277,Esperaba más. La música intenta levantar la historia. Algo rescata la fotografía.,2.1,Lucía,1917,train
+31,Horrible experiencia. El montaje es caótico. Una completa decepción.,1.4,Carlos,Dune,train
+726,Recomendable. El humor está bien medido. Salí contento del cine.,4.4,Carlos,1917,train
+1,Horrible experiencia. La fotografía parece amateur. Ni gratis la volvería a ver.,1.7,FHG,Mad Max: Fury Road,train
+73,No la recomiendo en absoluto. El sonido es confuso. Una completa decepción.,1.4,Diego,Roma,train
+784,Me gustó bastante. El clímax emociona. Recomendada.,4.0,Carlos,Parasite,test
+757,Sólida de principio a fin. Las actuaciones brillan. Vale la entrada.,4.3,Carlos,Soul,train
+642,Me gustó bastante. La música te envuelve. Buen trabajo del director.,4.1,María,Arrival,train
+436,Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. Ideal para una tarde lluviosa.,3.6,Lucía,Dune,train
+526,Regular en casi todo. El reparto funciona a medias. Le doy un aprobado raspado.,3.2,Ana,Spider‑Verse,train
+914,Excepcional. Profundamente conmovedora. Una joya absoluta.,4.9,María,The Dark Knight,train
+116,No la recomiendo en absoluto. El guion no tiene sentido. Le pongo la peor nota posible.,1.0,Carlos,Roma,train
+509,Regular en casi todo. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.3,Ana,Roma,train
+33,Dos horas perdidas. La fotografía parece amateur. Le pongo la peor nota posible.,1.7,Ana,Dune,train
+701,Muy disfrutable. Las actuaciones brillan. Recomendada.,4.4,Ana,1917,train
+677,Sólida de principio a fin. Las actuaciones brillan. Buen trabajo del director.,4.4,FHG,The Dark Knight,train
+39,No la recomiendo en absoluto. La fotografía parece amateur. Se siente eterna y vacía.,1.2,Carlos,Everything Everywhere All at Once,train
+25,Horrible experiencia. Los diálogos dan vergüenza ajena. Salí del cine antes de que terminara.,1.4,Diego,Dune,train
+669,"Muy disfrutable. La música te envuelve. Con pequeños fallos, pero funciona.",4.1,Lucía,Coco,train
+200,Simplemente nefasta. La fotografía parece amateur. Salí del cine antes de que terminara.,1.8,Lucía,The Dark Knight,test
+206,Floja en casi todo. El final es predecible. Algo rescata la fotografía.,2.6,Ana,Parasite,train
+627,"Buen entretenimiento. El humor está bien medido. Con pequeños fallos, pero funciona.",4.0,Diego,Arrival,train
+533,Entretenida sin más. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.8,María,Roma,train
+926,Maravillosa. Guion impecable y actuaciones memorables. La vería mil veces.,4.9,Carlos,La La Land,train
+259,Se queda a medias. La música intenta levantar la historia. Le falta alma.,2.6,Lucía,Roma,train
+906,Excepcional. Una montaña rusa de emociones. Una joya absoluta.,4.7,FHG,Dune,train
+265,Se queda a medias. Los efectos especiales apenas salvan algunos momentos. Algo rescata la fotografía.,2.6,Diego,Everything Everywhere All at Once,train
+615,"Buen entretenimiento. El clímax emociona. Con pequeños fallos, pero funciona.",4.0,María,Spider‑Verse,train
+992,Impresionante. Te atrapa desde el primer minuto. Salí conmovido.,4.9,FHG,Coco,test
+296,No cumple lo prometido. El ritmo es irregular. Algo rescata la fotografía.,2.6,Lucía,Soul,train
+660,Sólida de principio a fin. El guion mantiene el suspense. Seguro la veré otra vez.,4.3,Diego,Coco,train
+676,Buen entretenimiento. La fotografía es preciosa. Recomendada.,4.2,Lucía,Mad Max: Fury Road,train
+106,Dos horas perdidas. El guion no tiene sentido. Le pongo la peor nota posible.,1.2,FHG,1917,train
+72,Simplemente nefasta. La fotografía parece amateur. Una completa decepción.,1.5,Carlos,Arrival,train
+235,"Decepcionante pero con algún destello. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.4,Diego,The Dark Knight,train
+348,"Esperaba más. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.4,Ana,Dune,train
+684,Me gustó bastante. El humor está bien medido. Salí contento del cine.,4.2,Carlos,Roma,train
+403,Está bien para pasar el rato. Algunos chistes caen planos. Le doy un aprobado raspado.,3.1,Ana,Everything Everywhere All at Once,train
+835,Cine del bueno. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.8,Carlos,La La Land,train
+521,"Correcta pero olvidable. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.3,Diego,Roma,train
+510,"Regular en casi todo. El ritmo mantiene la atención. Cumple, aunque no sorprende.",3.7,Diego,Coco,train
+604,Recomendable. El clímax emociona. Buen trabajo del director.,4.2,Diego,Roma,train
+50,Dos horas perdidas. El guion no tiene sentido. Se siente eterna y vacía.,1.3,Lucía,Interstellar,train
+387,Esperaba más. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.8,Diego,The Dark Knight,test
+303,"Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.6,FHG,1917,train
+180,Dos horas perdidas. El sonido es confuso. Una completa decepción.,1.1,María,Roma,valid
+202,"Floja en casi todo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.7,Diego,Soul,train
+739,Sólida de principio a fin. La música te envuelve. Recomendada.,4.4,FHG,Arrival,train
+645,Buen entretenimiento. Las actuaciones brillan. Recomendada.,4.3,María,Parasite,train
+232,"Se queda a medias. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,Carlos,The Dark Knight,train
+451,Está bien para pasar el rato. La ambientación destaca sobre el guion. No destaca pero tampoco ofende.,3.6,Ana,Coco,train
+909,Inolvidable. Fotografía y música sobresalientes. Una joya absoluta.,4.8,Diego,La La Land,train
+796,Sólida de principio a fin. Las actuaciones brillan. Vale la entrada.,4.1,María,Dune,test
+801,Obra maestra. Guion impecable y actuaciones memorables. La vería mil veces.,5.0,FHG,Spider‑Verse,train
+819,Inolvidable. Profundamente conmovedora. Se queda grabada en la memoria.,4.8,Carlos,The Dark Knight,train
+601,Grata sorpresa. El clímax emociona. Seguro la veré otra vez.,4.2,Carlos,The Dark Knight,train
+298,"Floja en casi todo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.5,Diego,Coco,train
+691,Grata sorpresa. La fotografía es preciosa. Recomendada.,4.4,FHG,La La Land,train
+588,Está bien para pasar el rato. Nada sorprende pero nada ofende. Salí neutral.,3.8,FHG,The Dark Knight,test
+126,Simplemente nefasta. Los diálogos dan vergüenza ajena. Ni gratis la volvería a ver.,1.4,Ana,Spider‑Verse,train
+733,Recomendable. La música te envuelve. Vale la entrada.,4.3,Carlos,Coco,train
+552,Correcta pero olvidable. Algunos chistes caen planos. Salí neutral.,3.0,Carlos,Roma,train
+877,Obra maestra. Una montaña rusa de emociones. Salí conmovido.,4.8,Lucía,Arrival,train
+21,Simplemente nefasta. La fotografía parece amateur. Le pongo la peor nota posible.,1.6,FHG,Dune,train
+826,Inolvidable. Fotografía y música sobresalientes. Inolvidable.,4.6,Diego,Interstellar,train
+749,Sólida de principio a fin. Las actuaciones brillan. Vale la entrada.,4.5,Lucía,Everything Everywhere All at Once,train
+278,"Floja en casi todo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.7,Carlos,Interstellar,train
+578,Aceptable. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.4,Lucía,Joker,valid
+257,Quedó debiendo muchísimo. El ritmo es irregular. Solo la salva la banda sonora.,2.2,Carlos,1917,train
+399,No cumple lo prometido. El ritmo es irregular. Le falta alma.,2.3,Diego,Mad Max: Fury Road,test
+985,Inolvidable. Cada plano es arte puro. Se queda grabada en la memoria.,5.0,María,Roma,test
+212,No cumple lo prometido. El final es predecible. Solo la salva la banda sonora.,2.3,Carlos,Whiplash,train
+651,"Muy disfrutable. El humor está bien medido. Con pequeños fallos, pero funciona.",4.1,Diego,Arrival,train
+90,Pésima película. El sonido es confuso. Se siente eterna y vacía.,1.3,Ana,Spider‑Verse,train
+405,Tiene luces y sombras. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.8,FHG,Arrival,train
+192,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Una completa decepción.,1.9,Diego,Dune,test
+625,Grata sorpresa. La música te envuelve. Seguro la veré otra vez.,4.5,María,Arrival,train
+667,Muy disfrutable. Las actuaciones brillan. Recomendada.,4.4,Ana,Joker,train
+845,Excepcional. Guion impecable y actuaciones memorables. Una joya absoluta.,5.0,Diego,La La Land,train
+475,"Está bien para pasar el rato. El ritmo mantiene la atención. Cumple, aunque no sorprende.",3.7,María,La La Land,train
+950,Cine del bueno. Profundamente conmovedora. La vería mil veces.,4.8,Carlos,Arrival,train
+729,Recomendable. La fotografía es preciosa. Salí contento del cine.,4.1,Lucía,Soul,train
+28,Horrible experiencia. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.5,Diego,La La Land,train
+224,"Quedó debiendo muchísimo. El ritmo es irregular. Si no hay nada más, tal vez la pongas de fondo.",2.3,Lucía,Roma,train
+217,Esperaba más. El final es predecible. Algo rescata la fotografía.,2.1,FHG,The Dark Knight,train
+249,Floja en casi todo. El final es predecible. Solo la salva la banda sonora.,2.0,Ana,Roma,train
+190,Insoportable de principio a fin. El montaje es caótico. Una completa decepción.,1.7,Diego,Whiplash,test
+893,Obra maestra. Te atrapa desde el primer minuto. La mejor del año.,4.9,María,Interstellar,train
+392,Se queda a medias. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.3,Diego,Whiplash,test
+71,Simplemente nefasta. La fotografía parece amateur. Una completa decepción.,1.3,Diego,Mad Max: Fury Road,train
+873,Inolvidable. Te atrapa desde el primer minuto. La mejor del año.,4.9,María,1917,train
+534,"Tiene luces y sombras. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.4,María,Joker,train
+978,Obra maestra. Guion impecable y actuaciones memorables. La mejor del año.,4.9,Lucía,Arrival,valid
+688,Muy disfrutable. El humor está bien medido. Buen trabajo del director.,4.4,María,Joker,train
+707,Grata sorpresa. El guion mantiene el suspense. Vale la entrada.,4.0,María,Soul,train
+220,"No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.5,Carlos,The Dark Knight,train
+234,Decepcionante pero con algún destello. La música intenta levantar la historia. Algo rescata la fotografía.,2.1,Diego,Whiplash,train
+415,"Aceptable. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.1,María,Dune,train
+289,Quedó debiendo muchísimo. El ritmo es irregular. Solo la salva la banda sonora.,2.7,Lucía,Parasite,train
+833,Obra maestra. Guion impecable y actuaciones memorables. Salí conmovido.,4.8,María,Coco,train
+702,Recomendable. La fotografía es preciosa. Vale la entrada.,4.3,Diego,1917,train
+367,Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. Le falta alma.,2.3,Carlos,The Dark Knight,valid
+515,Regular en casi todo. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.0,FHG,Everything Everywhere All at Once,train
+948,Obra maestra. Te atrapa desde el primer minuto. Inolvidable.,4.9,FHG,Roma,train
+620,Muy disfrutable. La fotografía es preciosa. Seguro la veré otra vez.,4.2,Diego,Roma,train
+828,Obra maestra. Cada plano es arte puro. Salí conmovido.,5.0,Carlos,Joker,train
+565,Tiene luces y sombras. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.4,Diego,Arrival,valid
+638,Sólida de principio a fin. La fotografía es preciosa. Recomendada.,4.5,FHG,Roma,train
+607,Sólida de principio a fin. El guion mantiene el suspense. Recomendada.,4.5,Ana,Whiplash,train
+334,"Se queda a medias. El ritmo es irregular. Si no hay nada más, tal vez la pongas de fondo.",2.4,María,Dune,train
+700,Grata sorpresa. La música te envuelve. Recomendada.,4.1,Carlos,1917,train
+105,Dos horas perdidas. La fotografía parece amateur. Desperdicio absoluto de tiempo.,1.2,Ana,1917,train
+129,Insoportable de principio a fin. El montaje es caótico. Salí del cine antes de que terminara.,1.2,Carlos,Dune,train
+854,Impresionante. Guion impecable y actuaciones memorables. Una joya absoluta.,4.7,FHG,1917,train
+564,Tiene luces y sombras. Nada sorprende pero nada ofende. No destaca pero tampoco ofende.,3.4,Ana,Whiplash,valid
+979,Maravillosa. Cada plano es arte puro. Una joya absoluta.,4.9,María,Dune,valid
+242,"Decepcionante pero con algún destello. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.6,Diego,Whiplash,train
+673,"Buen entretenimiento. El clímax emociona. Con pequeños fallos, pero funciona.",4.1,Ana,Roma,train
+7,Pésima película. El sonido es confuso. Se siente eterna y vacía.,1.4,FHG,The Dark Knight,train
+656,Muy disfrutable. La fotografía es preciosa. Vale la entrada.,4.1,Lucía,Mad Max: Fury Road,train
+404,"Tiene luces y sombras. Algunos chistes caen planos. Cumple, aunque no sorprende.",3.0,FHG,Mad Max: Fury Road,train
+822,Maravillosa. Fotografía y música sobresalientes. Una joya absoluta.,4.7,María,Joker,train
+550,Tiene luces y sombras. Algunos chistes caen planos. No destaca pero tampoco ofende.,3.6,María,La La Land,train
+663,Grata sorpresa. El humor está bien medido. Vale la entrada.,4.3,Carlos,La La Land,train
+664,Muy disfrutable. El guion mantiene el suspense. Buen trabajo del director.,4.1,Ana,The Dark Knight,train
+62,No la recomiendo en absoluto. La fotografía parece amateur. Le pongo la peor nota posible.,1.8,Ana,The Dark Knight,train
+527,Entretenida sin más. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.9,Ana,Coco,train
+446,Está bien para pasar el rato. La ambientación destaca sobre el guion. No destaca pero tampoco ofende.,3.6,Ana,Soul,train
+63,Pésima película. Los diálogos dan vergüenza ajena. Ni gratis la volvería a ver.,1.1,María,Everything Everywhere All at Once,train
+38,No la recomiendo en absoluto. Los diálogos dan vergüenza ajena. Una completa decepción.,1.7,FHG,1917,train
+834,Cine del bueno. Fotografía y música sobresalientes. Inolvidable.,4.8,Diego,La La Land,train
+626,Grata sorpresa. El humor está bien medido. Recomendada.,4.4,María,Coco,train
+706,Me gustó bastante. El clímax emociona. Recomendada.,4.2,Diego,Interstellar,train
+166,Dos horas perdidas. El sonido es confuso. Salí del cine antes de que terminara.,1.4,Carlos,1917,valid
+619,Grata sorpresa. El clímax emociona. Recomendada.,4.1,FHG,The Dark Knight,train
+728,Grata sorpresa. Las actuaciones brillan. Vale la entrada.,4.1,María,Parasite,train
+889,Cine del bueno. Una montaña rusa de emociones. La mejor del año.,4.9,Diego,Coco,train
+551,"Tiene luces y sombras. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.8,María,Parasite,train
+780,Me gustó bastante. Las actuaciones brillan. Recomendada.,4.1,María,Soul,valid
+401,Aceptable. El reparto funciona a medias. Seguramente la olvidaré pronto.,3.7,FHG,Soul,train
+880,Obra maestra. Te atrapa desde el primer minuto. Inolvidable.,4.9,Diego,Soul,train
+603,"Muy disfrutable. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.3,Ana,Spider‑Verse,train
+13,Dos horas perdidas. El montaje es caótico. Salí del cine antes de que terminara.,1.2,María,Coco,train
+927,Obra maestra. Una montaña rusa de emociones. Se queda grabada en la memoria.,5.0,Lucía,Joker,train
+698,"Buen entretenimiento. El clímax emociona. Con pequeños fallos, pero funciona.",4.5,Carlos,Arrival,train
+440,Está bien para pasar el rato. Algunos chistes caen planos. No destaca pero tampoco ofende.,3.4,Diego,Coco,train
+287,Se queda a medias. El final es predecible. Algo rescata la fotografía.,2.0,María,Roma,train
+145,Pésima película. Las actuaciones son de cartón. Desperdicio absoluto de tiempo.,1.5,María,Spider‑Verse,train
+716,Buen entretenimiento. Las actuaciones brillan. Seguro la veré otra vez.,4.2,María,Interstellar,train
+594,Aceptable. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.1,Diego,Arrival,test
+414,Aceptable. Algunos chistes caen planos. Ideal para una tarde lluviosa.,3.3,Lucía,La La Land,train
+776,Me gustó bastante. La fotografía es preciosa. Vale la entrada.,4.2,Ana,Interstellar,valid
+727,Buen entretenimiento. La fotografía es preciosa. Seguro la veré otra vez.,4.1,Lucía,Parasite,train
+478,Aceptable. El reparto funciona a medias. Salí neutral.,3.8,Diego,Dune,train
+704,"Me gustó bastante. El clímax emociona. Con pequeños fallos, pero funciona.",4.5,FHG,Parasite,train
+795,Me gustó bastante. La fotografía es preciosa. Seguro la veré otra vez.,4.1,FHG,Everything Everywhere All at Once,test
+26,Simplemente nefasta. Las actuaciones son de cartón. Le pongo la peor nota posible.,1.1,Diego,Soul,train
+590,Entretenida sin más. Algunos chistes caen planos. Seguramente la olvidaré pronto.,3.2,Ana,La La Land,test
+82,Horrible experiencia. El guion no tiene sentido. Una completa decepción.,1.2,Ana,Whiplash,train
+362,Se queda a medias. El final es predecible. Una pena.,2.0,Ana,Joker,valid
+134,Simplemente nefasta. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.3,Diego,Everything Everywhere All at Once,train
+2,Horrible experiencia. El sonido es confuso. Se siente eterna y vacía.,1.5,FHG,Coco,train
+742,Recomendable. El humor está bien medido. Salí contento del cine.,4.3,Carlos,Joker,train
+20,No la recomiendo en absoluto. El sonido es confuso. Una completa decepción.,1.0,Carlos,Joker,train
+30,Horrible experiencia. El montaje es caótico. Una completa decepción.,1.7,Lucía,Whiplash,train
+335,No cumple lo prometido. La música intenta levantar la historia. Solo la salva la banda sonora.,2.8,Ana,Roma,train
+502,Está bien para pasar el rato. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.4,Carlos,Joker,train
+964,Excepcional. Te atrapa desde el primer minuto. La mejor del año.,4.9,Diego,La La Land,valid
+584,Entretenida sin más. El reparto funciona a medias. Le doy un aprobado raspado.,3.1,Carlos,Joker,test
+351,Esperaba más. El final es predecible. Le falta alma.,2.8,Carlos,The Dark Knight,train
+84,Simplemente nefasta. El guion no tiene sentido. Una completa decepción.,1.6,Lucía,Coco,train
+496,Entretenida sin más. Buenos efectos aunque la historia es cliché. Salí neutral.,3.1,María,La La Land,train
+331,Se queda a medias. La música intenta levantar la historia. Una pena.,2.2,Diego,Mad Max: Fury Road,train
+54,Horrible experiencia. El guion no tiene sentido. Le pongo la peor nota posible.,1.6,Ana,Arrival,train
+1000,Inolvidable. Te atrapa desde el primer minuto. Una joya absoluta.,5.0,María,Everything Everywhere All at Once,test
+174,Insoportable de principio a fin. Las actuaciones son de cartón. Una completa decepción.,1.9,Carlos,Joker,valid
+437,Regular en casi todo. Nada sorprende pero nada ofende. Salí neutral.,3.7,Ana,1917,train
+489,Está bien para pasar el rato. Nada sorprende pero nada ofende. Le doy un aprobado raspado.,3.8,Diego,Roma,train
+571,Tiene luces y sombras. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.1,Diego,La La Land,valid
+853,Inolvidable. Guion impecable y actuaciones memorables. La vería mil veces.,4.8,FHG,La La Land,train
+916,Inolvidable. Una montaña rusa de emociones. La mejor del año.,4.6,FHG,1917,train
+891,Impresionante. Guion impecable y actuaciones memorables. La mejor del año.,5.0,FHG,1917,train
+467,"Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.6,FHG,Mad Max: Fury Road,train
+941,Obra maestra. Profundamente conmovedora. La vería mil veces.,4.8,Lucía,Everything Everywhere All at Once,train
+852,Excepcional. Profundamente conmovedora. Salí conmovido.,4.8,Ana,Soul,train
+424,"Tiene luces y sombras. Buenos efectos aunque la historia es cliché. Cumple, aunque no sorprende.",3.3,Carlos,Everything Everywhere All at Once,train
+981,Maravillosa. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,4.9,María,Mad Max: Fury Road,test
+150,Pésima película. Las actuaciones son de cartón. Ni gratis la volvería a ver.,1.1,María,La La Land,train
+517,Tiene luces y sombras. El reparto funciona a medias. Le doy un aprobado raspado.,3.1,Carlos,Coco,train
+219,Floja en casi todo. La trama se desinfla a mitad. Una pena.,2.9,María,Interstellar,train
+962,Maravillosa. Cada plano es arte puro. La mejor del año.,4.6,Diego,Mad Max: Fury Road,valid
+495,Aceptable. Algunos chistes caen planos. Salí neutral.,3.7,María,Whiplash,train
+640,"Muy disfrutable. La música te envuelve. Con pequeños fallos, pero funciona.",4.4,Carlos,Roma,train
+465,Entretenida sin más. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.6,Diego,Whiplash,train
+144,Dos horas perdidas. El guion no tiene sentido. Ni gratis la volvería a ver.,1.0,Carlos,Coco,train
+127,Simplemente nefasta. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.0,Lucía,Mad Max: Fury Road,train
+153,Simplemente nefasta. El sonido es confuso. Desperdicio absoluto de tiempo.,1.4,FHG,Whiplash,train
+239,Decepcionante pero con algún destello. La música intenta levantar la historia. Una pena.,2.5,María,Arrival,train
+593,Tiene luces y sombras. Buenos efectos aunque la historia es cliché. Ideal para una tarde lluviosa.,3.9,FHG,Whiplash,test
+630,Muy disfrutable. Las actuaciones brillan. Recomendada.,4.1,Diego,Soul,train
+536,Entretenida sin más. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.3,Lucía,Parasite,train
+881,Cine del bueno. Profundamente conmovedora. Se queda grabada en la memoria.,4.9,Diego,Roma,train
+248,Quedó debiendo muchísimo. La música intenta levantar la historia. Algo rescata la fotografía.,2.8,Ana,Parasite,train
+574,Entretenida sin más. Nada sorprende pero nada ofende. Ideal para una tarde lluviosa.,3.1,Diego,Parasite,valid
+109,Insoportable de principio a fin. El sonido es confuso. Salí del cine antes de que terminara.,1.5,Diego,Spider‑Verse,train
+384,Decepcionante pero con algún destello. La música intenta levantar la historia. Algo rescata la fotografía.,2.5,FHG,Roma,test
+338,Quedó debiendo muchísimo. La música intenta levantar la historia. Solo la salva la banda sonora.,2.6,Ana,Spider‑Verse,train
+976,Inolvidable. Guion impecable y actuaciones memorables. Una joya absoluta.,4.8,Diego,Joker,valid
+605,Muy disfrutable. El guion mantiene el suspense. Buen trabajo del director.,4.1,FHG,Arrival,train
+45,Horrible experiencia. La fotografía parece amateur. Le pongo la peor nota posible.,1.3,Lucía,Spider‑Verse,train
+602,Muy disfrutable. La música te envuelve. Seguro la veré otra vez.,4.2,Carlos,La La Land,train
+406,Entretenida sin más. Nada sorprende pero nada ofende. Le doy un aprobado raspado.,3.4,María,Interstellar,train
+797,"Me gustó bastante. El humor está bien medido. Con pequeños fallos, pero funciona.",4.4,Diego,Interstellar,test
+507,Entretenida sin más. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.1,Diego,Coco,train
+325,Floja en casi todo. La trama se desinfla a mitad. Algo rescata la fotografía.,2.8,María,Whiplash,train
+890,Cine del bueno. Te atrapa desde el primer minuto. La vería mil veces.,4.8,Diego,Soul,train
+169,No la recomiendo en absoluto. El guion no tiene sentido. Una completa decepción.,1.6,María,Joker,valid
+138,No la recomiendo en absoluto. El montaje es caótico. Una completa decepción.,1.6,Diego,Whiplash,train
+423,Entretenida sin más. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.5,Lucía,Mad Max: Fury Road,train
+221,"Se queda a medias. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.7,Diego,Joker,train
+680,Buen entretenimiento. El guion mantiene el suspense. Recomendada.,4.4,Ana,Joker,train
+226,Floja en casi todo. El ritmo es irregular. Solo la salva la banda sonora.,2.6,FHG,Soul,train
+455,Regular en casi todo. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.9,María,Roma,train
+520,Correcta pero olvidable. Buenos efectos aunque la historia es cliché. Ideal para una tarde lluviosa.,3.4,María,Everything Everywhere All at Once,train
+848,Cine del bueno. Profundamente conmovedora. Se queda grabada en la memoria.,5.0,María,Arrival,train
+628,Buen entretenimiento. El humor está bien medido. Recomendada.,4.0,FHG,Whiplash,train
+580,Tiene luces y sombras. La ambientación destaca sobre el guion. Salí neutral.,3.5,FHG,The Dark Knight,valid
+356,"Quedó debiendo muchísimo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.7,FHG,1917,train
+773,Sólida de principio a fin. La fotografía es preciosa. Vale la entrada.,4.2,FHG,Coco,valid
+137,Insoportable de principio a fin. El montaje es caótico. Una completa decepción.,1.3,Ana,Dune,train
+747,Muy disfrutable. El clímax emociona. Salí contento del cine.,4.4,María,Parasite,train
+856,Obra maestra. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.7,Ana,Everything Everywhere All at Once,train
+901,Impresionante. Te atrapa desde el primer minuto. Salí conmovido.,4.8,María,The Dark Knight,train
+913,Cine del bueno. Te atrapa desde el primer minuto. Inolvidable.,4.7,Ana,Joker,train
+956,Maravillosa. Profundamente conmovedora. La vería mil veces.,5.0,Diego,Roma,train
+817,Maravillosa. Te atrapa desde el primer minuto. La mejor del año.,4.7,Diego,1917,train
+907,Excepcional. Profundamente conmovedora. Una joya absoluta.,4.9,Lucía,Dune,train
+294,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Solo la salva la banda sonora.,2.1,Ana,Interstellar,train
+945,Obra maestra. Fotografía y música sobresalientes. La vería mil veces.,4.6,Diego,Coco,train
+911,Cine del bueno. Fotografía y música sobresalientes. La vería mil veces.,5.0,FHG,Arrival,train
+732,Muy disfrutable. La fotografía es preciosa. Buen trabajo del director.,4.2,Carlos,La La Land,train
+741,Muy disfrutable. La fotografía es preciosa. Seguro la veré otra vez.,4.4,María,Coco,train
+11,Simplemente nefasta. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.5,Carlos,Whiplash,train
+963,Impresionante. Profundamente conmovedora. Se queda grabada en la memoria.,4.6,FHG,Coco,valid
+541,Tiene luces y sombras. Nada sorprende pero nada ofende. No destaca pero tampoco ofende.,3.8,Diego,Spider‑Verse,train
+252,"Floja en casi todo. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.1,Diego,Interstellar,train
+208,Se queda a medias. La trama se desinfla a mitad. Una pena.,2.4,Diego,The Dark Knight,train
+394,Quedó debiendo muchísimo. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.4,Ana,Dune,test
+637,Grata sorpresa. Las actuaciones brillan. Vale la entrada.,4.1,Diego,Joker,train
+70,Horrible experiencia. Las actuaciones son de cartón. Desperdicio absoluto de tiempo.,1.8,Lucía,Soul,train
+674,Muy disfrutable. El clímax emociona. Buen trabajo del director.,4.1,Diego,Coco,train
+195,Pésima película. El guion no tiene sentido. Le pongo la peor nota posible.,1.6,Carlos,La La Land,test
+650,Recomendable. La fotografía es preciosa. Seguro la veré otra vez.,4.0,María,Joker,train
+573,Aceptable. Algunos chistes caen planos. Le doy un aprobado raspado.,3.5,FHG,Soul,valid
+830,Inolvidable. Te atrapa desde el primer minuto. Inolvidable.,4.7,Carlos,The Dark Knight,train
+113,Dos horas perdidas. El guion no tiene sentido. Una completa decepción.,1.2,María,Dune,train
+326,"Esperaba más. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,FHG,Arrival,train
+613,Me gustó bastante. Las actuaciones brillan. Recomendada.,4.4,Diego,Roma,train
+313,No cumple lo prometido. El ritmo es irregular. Le falta alma.,2.3,Lucía,The Dark Knight,train
+433,Entretenida sin más. El reparto funciona a medias. Seguramente la olvidaré pronto.,3.5,Diego,Joker,train
+503,Tiene luces y sombras. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.1,FHG,La La Land,train
+342,Floja en casi todo. La trama se desinfla a mitad. Una pena.,2.6,Ana,Roma,train
+719,Sólida de principio a fin. El humor está bien medido. Salí contento del cine.,4.4,Diego,Roma,train
+612,Muy disfrutable. El clímax emociona. Salí contento del cine.,4.5,FHG,Arrival,train
+887,Obra maestra. Guion impecable y actuaciones memorables. Una joya absoluta.,4.7,Carlos,Soul,train
+508,Regular en casi todo. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.7,Ana,Arrival,train
+623,Grata sorpresa. El clímax emociona. Seguro la veré otra vez.,4.4,FHG,Arrival,train
+442,Correcta pero olvidable. Buenos efectos aunque la historia es cliché. Salí neutral.,3.8,María,La La Land,train
+282,Se queda a medias. La trama se desinfla a mitad. Le falta alma.,2.4,Diego,Whiplash,train
+408,Está bien para pasar el rato. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.6,FHG,Joker,train
+188,Horrible experiencia. El guion no tiene sentido. Salí del cine antes de que terminara.,1.6,FHG,Arrival,test
+443,Correcta pero olvidable. El reparto funciona a medias. Salí neutral.,3.3,Lucía,Parasite,train
+635,Muy disfrutable. La música te envuelve. Vale la entrada.,4.2,María,La La Land,train
+790,Recomendable. La fotografía es preciosa. Salí contento del cine.,4.5,Diego,Spider‑Verse,test
+460,Correcta pero olvidable. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.6,María,La La Land,train
+93,Horrible experiencia. El sonido es confuso. Desperdicio absoluto de tiempo.,1.2,Lucía,Coco,train
+411,Está bien para pasar el rato. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.8,Diego,Everything Everywhere All at Once,train
+652,Sólida de principio a fin. El clímax emociona. Buen trabajo del director.,4.0,Carlos,Coco,train
+708,Recomendable. El humor está bien medido. Vale la entrada.,4.4,Diego,Whiplash,train
+575,"Entretenida sin más. Algunos chistes caen planos. Cumple, aunque no sorprende.",3.2,Carlos,The Dark Knight,valid
+982,Impresionante. Profundamente conmovedora. Se queda grabada en la memoria.,5.0,Carlos,Joker,test
+504,Correcta pero olvidable. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.1,Lucía,Dune,train
+687,"Recomendable. El humor está bien medido. Con pequeños fallos, pero funciona.",4.0,Carlos,Everything Everywhere All at Once,train
+476,Está bien para pasar el rato. Algunos chistes caen planos. Seguramente la olvidaré pronto.,3.2,María,La La Land,train
+905,Cine del bueno. Fotografía y música sobresalientes. La mejor del año.,4.8,FHG,Joker,train
+558,Entretenida sin más. El ritmo mantiene la atención. Salí neutral.,3.7,Lucía,1917,train
+659,"Recomendable. La música te envuelve. Con pequeños fallos, pero funciona.",4.1,Diego,The Dark Knight,train
+131,Simplemente nefasta. Las actuaciones son de cartón. Ni gratis la volvería a ver.,1.9,FHG,Everything Everywhere All at Once,train
+912,Impresionante. Fotografía y música sobresalientes. Inolvidable.,5.0,María,Interstellar,train
+563,Entretenida sin más. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.2,FHG,Everything Everywhere All at Once,valid
+610,Sólida de principio a fin. La fotografía es preciosa. Buen trabajo del director.,4.2,Diego,Mad Max: Fury Road,train
+198,Horrible experiencia. Las actuaciones son de cartón. Salí del cine antes de que terminara.,1.9,Carlos,Arrival,test
+216,Se queda a medias. El final es predecible. Le falta alma.,2.0,Ana,Parasite,train
+751,Me gustó bastante. El clímax emociona. Buen trabajo del director.,4.2,Lucía,Soul,train
+842,Excepcional. Cada plano es arte puro. Una joya absoluta.,4.7,Lucía,Arrival,train
+993,Impresionante. Profundamente conmovedora. Una joya absoluta.,4.9,Lucía,Arrival,test
+896,Excepcional. Cada plano es arte puro. Salí conmovido.,4.9,Carlos,Dune,train
+482,Correcta pero olvidable. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.5,Ana,Parasite,train
+576,Entretenida sin más. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.4,FHG,Everything Everywhere All at Once,valid
+472,"Aceptable. La ambientación destaca sobre el guion. Cumple, aunque no sorprende.",3.8,FHG,Arrival,train
+441,"Tiene luces y sombras. Algunos chistes caen planos. Cumple, aunque no sorprende.",3.4,Ana,Roma,train
+908,Maravillosa. Te atrapa desde el primer minuto. Inolvidable.,4.7,Carlos,Dune,train
+682,Sólida de principio a fin. El humor está bien medido. Buen trabajo del director.,4.5,FHG,Interstellar,train
+760,"Buen entretenimiento. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.4,Ana,Dune,train
+258,Decepcionante pero con algún destello. La trama se desinfla a mitad. Una pena.,2.7,FHG,Mad Max: Fury Road,train
+764,Grata sorpresa. Las actuaciones brillan. Vale la entrada.,4.2,FHG,Roma,valid
+429,Entretenida sin más. Algunos chistes caen planos. Salí neutral.,3.8,FHG,Interstellar,train
+782,Me gustó bastante. Las actuaciones brillan. Vale la entrada.,4.5,Diego,Interstellar,test
+957,Maravillosa. Profundamente conmovedora. La vería mil veces.,4.6,Diego,1917,train
+498,Entretenida sin más. El reparto funciona a medias. No destaca pero tampoco ofende.,3.9,María,Dune,train
+636,Grata sorpresa. El clímax emociona. Recomendada.,4.2,Carlos,Everything Everywhere All at Once,train
+491,Correcta pero olvidable. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.1,Lucía,1917,train
+666,Sólida de principio a fin. El clímax emociona. Buen trabajo del director.,4.5,Carlos,The Dark Knight,train
+461,Aceptable. Nada sorprende pero nada ofende. Le doy un aprobado raspado.,3.7,Diego,Whiplash,train
+77,Insoportable de principio a fin. El guion no tiene sentido. Le pongo la peor nota posible.,1.5,Carlos,Mad Max: Fury Road,train
+553,Aceptable. La ambientación destaca sobre el guion. No destaca pero tampoco ofende.,3.6,María,Dune,train
+879,Inolvidable. Profundamente conmovedora. La vería mil veces.,4.8,María,Spider‑Verse,train
+885,Impresionante. Fotografía y música sobresalientes. La vería mil veces.,4.8,María,Spider‑Verse,train
+66,Horrible experiencia. Los diálogos dan vergüenza ajena. Le pongo la peor nota posible.,1.7,María,Whiplash,train
+920,Excepcional. Guion impecable y actuaciones memorables. Se queda grabada en la memoria.,4.7,Lucía,Spider‑Verse,train
+207,"No cumple lo prometido. El ritmo es irregular. Si no hay nada más, tal vez la pongas de fondo.",2.7,Carlos,Everything Everywhere All at Once,train
+9,Simplemente nefasta. Los diálogos dan vergüenza ajena. Se siente eterna y vacía.,1.7,FHG,Coco,train
+78,No la recomiendo en absoluto. El sonido es confuso. Ni gratis la volvería a ver.,1.1,FHG,Soul,train
+867,Obra maestra. Cada plano es arte puro. La mejor del año.,4.9,Diego,1917,train
+59,Pésima película. La fotografía parece amateur. Una completa decepción.,1.9,Lucía,Coco,train
+763,Sólida de principio a fin. La música te envuelve. Vale la entrada.,4.5,FHG,Coco,valid
+473,Regular en casi todo. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.4,Ana,Dune,train
+425,Entretenida sin más. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.6,Carlos,Interstellar,train
+378,"Floja en casi todo. Los efectos especiales apenas salvan algunos momentos. No la odié, pero tampoco la disfrutaría de nuevo.",2.3,Lucía,Soul,valid
+481,Correcta pero olvidable. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.8,Ana,Arrival,train
+497,Regular en casi todo. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.9,Lucía,Dune,train
+632,Me gustó bastante. El guion mantiene el suspense. Seguro la veré otra vez.,4.2,FHG,Whiplash,train
+965,Cine del bueno. Fotografía y música sobresalientes. La vería mil veces.,4.6,María,Soul,valid
+320,Se queda a medias. La trama se desinfla a mitad. Le falta alma.,2.1,FHG,Arrival,train
+365,Se queda a medias. Los personajes están poco desarrollados. Una pena.,2.8,Ana,Arrival,valid
+413,Entretenida sin más. Algunos chistes caen planos. Le doy un aprobado raspado.,3.9,María,Mad Max: Fury Road,train
+142,Dos horas perdidas. El montaje es caótico. Le pongo la peor nota posible.,1.4,Diego,Dune,train
+89,Horrible experiencia. Los diálogos dan vergüenza ajena. Desperdicio absoluto de tiempo.,1.8,María,Soul,train
+648,"Muy disfrutable. La música te envuelve. Con pequeños fallos, pero funciona.",4.2,Ana,Roma,train
+820,Impresionante. Una montaña rusa de emociones. La vería mil veces.,4.8,FHG,La La Land,train
+813,Impresionante. Una montaña rusa de emociones. La mejor del año.,4.7,Carlos,Interstellar,train
+324,No cumple lo prometido. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.8,Lucía,The Dark Knight,train
+767,Sólida de principio a fin. El guion mantiene el suspense. Buen trabajo del director.,4.2,Carlos,Whiplash,valid
+322,"Se queda a medias. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.5,Carlos,La La Land,train
+61,Horrible experiencia. La fotografía parece amateur. Se siente eterna y vacía.,1.1,María,Arrival,train
+487,Correcta pero olvidable. La ambientación destaca sobre el guion. Seguramente la olvidaré pronto.,3.1,Diego,The Dark Knight,train
+837,Impresionante. Profundamente conmovedora. Inolvidable.,4.9,Lucía,Joker,train
+386,Decepcionante pero con algún destello. El final es predecible. Una pena.,2.5,Ana,Everything Everywhere All at Once,test
+420,Correcta pero olvidable. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.3,FHG,The Dark Knight,train
+769,"Grata sorpresa. Las actuaciones brillan. Con pequeños fallos, pero funciona.",4.3,FHG,Whiplash,valid
+434,Regular en casi todo. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.4,Ana,1917,train
+302,"Esperaba más. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,FHG,Joker,train
+977,Obra maestra. Una montaña rusa de emociones. La vería mil veces.,5.0,Carlos,Roma,valid
+297,Decepcionante pero con algún destello. La trama se desinfla a mitad. Una pena.,2.9,Carlos,Everything Everywhere All at Once,train
+316,"Se queda a medias. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.9,Diego,Everything Everywhere All at Once,train
+930,Obra maestra. Una montaña rusa de emociones. Inolvidable.,4.8,Lucía,Roma,train
+47,No la recomiendo en absoluto. El sonido es confuso. Ni gratis la volvería a ver.,1.8,María,Whiplash,train
+87,Dos horas perdidas. La fotografía parece amateur. Una completa decepción.,1.7,María,Dune,train
+110,Insoportable de principio a fin. El montaje es caótico. Una completa decepción.,1.8,María,Mad Max: Fury Road,train
+361,Floja en casi todo. La trama se desinfla a mitad. Algo rescata la fotografía.,2.6,María,Coco,valid
+646,"Muy disfrutable. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.5,FHG,Roma,train
+17,Horrible experiencia. El montaje es caótico. Salí del cine antes de que terminara.,1.9,Diego,Joker,train
+494,Correcta pero olvidable. El reparto funciona a medias. Le doy un aprobado raspado.,3.8,María,Joker,train
+816,Maravillosa. Profundamente conmovedora. Se queda grabada en la memoria.,4.9,Ana,Spider‑Verse,train
+194,No la recomiendo en absoluto. El sonido es confuso. Salí del cine antes de que terminara.,1.5,María,Whiplash,test
+955,Obra maestra. Profundamente conmovedora. La vería mil veces.,5.0,Diego,Whiplash,train
+629,Recomendable. El guion mantiene el suspense. Recomendada.,4.1,Lucía,Parasite,train
+868,Excepcional. Guion impecable y actuaciones memorables. Una joya absoluta.,4.6,Carlos,Soul,train
+843,Impresionante. Cada plano es arte puro. La mejor del año.,4.9,Diego,Dune,train
+402,Tiene luces y sombras. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.2,FHG,Soul,train
+807,Obra maestra. Fotografía y música sobresalientes. La vería mil veces.,4.6,FHG,The Dark Knight,train
+540,Aceptable. El ritmo mantiene la atención. No destaca pero tampoco ofende.,3.3,Lucía,Mad Max: Fury Road,train
+439,Correcta pero olvidable. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.4,Lucía,Mad Max: Fury Road,train
+141,Pésima película. El montaje es caótico. Se siente eterna y vacía.,1.6,FHG,Parasite,train
+199,Pésima película. Los diálogos dan vergüenza ajena. Se siente eterna y vacía.,1.1,Diego,Dune,test
+468,"Aceptable. El reparto funciona a medias. Cumple, aunque no sorprende.",3.7,Lucía,Soul,train
+15,Horrible experiencia. Las actuaciones son de cartón. Se siente eterna y vacía.,1.1,Carlos,Spider‑Verse,train
+88,Horrible experiencia. El guion no tiene sentido. Una completa decepción.,1.3,María,La La Land,train
+266,"Se queda a medias. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.1,Lucía,Soul,train
+263,No cumple lo prometido. La música intenta levantar la historia. Una pena.,2.0,Diego,Roma,train
+223,Decepcionante pero con algún destello. La música intenta levantar la historia. Una pena.,2.5,Diego,Parasite,train
+756,"Buen entretenimiento. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.2,Lucía,Joker,train
+260,"Floja en casi todo. El ritmo es irregular. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,María,Soul,train
+4,No la recomiendo en absoluto. El guion no tiene sentido. Le pongo la peor nota posible.,1.7,María,1917,train
+355,"Se queda a medias. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.5,Carlos,Roma,train
+490,Entretenida sin más. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.8,María,Parasite,train
+616,"Me gustó bastante. La música te envuelve. Con pequeños fallos, pero funciona.",4.2,Lucía,Roma,train
+474,Aceptable. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.6,FHG,Parasite,train
+662,Buen entretenimiento. Las actuaciones brillan. Buen trabajo del director.,4.1,Diego,Mad Max: Fury Road,train
+140,Dos horas perdidas. Los diálogos dan vergüenza ajena. Desperdicio absoluto de tiempo.,1.0,Carlos,La La Land,train
+68,No la recomiendo en absoluto. El guion no tiene sentido. Una completa decepción.,1.8,Lucía,Interstellar,train
+516,Aceptable. Buenos efectos aunque la historia es cliché. Seguramente la olvidaré pronto.,3.3,FHG,Coco,train
+343,"Decepcionante pero con algún destello. Los personajes están poco desarrollados. No la odié, pero tampoco la disfrutaría de nuevo.",2.0,Ana,Arrival,train
+57,Insoportable de principio a fin. Los diálogos dan vergüenza ajena. Salí del cine antes de que terminara.,1.6,FHG,1917,train
+305,"Esperaba más. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.0,Diego,Soul,train
+746,Recomendable. La música te envuelve. Recomendada.,4.1,Lucía,Roma,train
+886,Cine del bueno. Te atrapa desde el primer minuto. Se queda grabada en la memoria.,4.8,Diego,1917,train
+52,Dos horas perdidas. Los diálogos dan vergüenza ajena. Se siente eterna y vacía.,1.3,Lucía,Arrival,train
+514,"Aceptable. Algunos chistes caen planos. Cumple, aunque no sorprende.",3.3,María,Spider‑Verse,train
+466,"Correcta pero olvidable. El ritmo mantiene la atención. Cumple, aunque no sorprende.",3.5,María,1917,train
+531,Tiene luces y sombras. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.7,FHG,Dune,train
+781,"Sólida de principio a fin. El guion mantiene el suspense. Con pequeños fallos, pero funciona.",4.1,Diego,Spider‑Verse,test
+306,"No cumple lo prometido. El final es predecible. Si no hay nada más, tal vez la pongas de fondo.",2.2,Lucía,Soul,train
+825,Inolvidable. Profundamente conmovedora. La vería mil veces.,4.8,Lucía,Everything Everywhere All at Once,train
+435,Entretenida sin más. Algunos chistes caen planos. No destaca pero tampoco ofende.,3.8,Ana,Everything Everywhere All at Once,train
+538,Regular en casi todo. El reparto funciona a medias. No destaca pero tampoco ofende.,3.8,Lucía,1917,train
+696,"Buen entretenimiento. La fotografía es preciosa. Con pequeños fallos, pero funciona.",4.3,Ana,Dune,train
+358,Se queda a medias. El final es predecible. Una pena.,2.4,Carlos,Mad Max: Fury Road,train
+187,No la recomiendo en absoluto. Las actuaciones son de cartón. Se siente eterna y vacía.,1.2,Diego,The Dark Knight,test
+556,Aceptable. El ritmo mantiene la atención. Ideal para una tarde lluviosa.,3.6,FHG,1917,train
+130,Horrible experiencia. Los diálogos dan vergüenza ajena. Ni gratis la volvería a ver.,1.4,Lucía,Coco,train
+360,"Quedó debiendo muchísimo. La música intenta levantar la historia. Si no hay nada más, tal vez la pongas de fondo.",2.1,Ana,Coco,train
+245,"Esperaba más. La música intenta levantar la historia. No la odié, pero tampoco la disfrutaría de nuevo.",2.7,Diego,Joker,train
+256,Quedó debiendo muchísimo. La trama se desinfla a mitad. Algo rescata la fotografía.,2.2,Carlos,Spider‑Verse,train
+783,Recomendable. El guion mantiene el suspense. Recomendada.,4.2,Carlos,The Dark Knight,test
+391,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Una pena.,2.4,Lucía,Dune,test
+721,Grata sorpresa. Las actuaciones brillan. Recomendada.,4.0,María,Whiplash,train
+155,Simplemente nefasta. El guion no tiene sentido. Salí del cine antes de que terminara.,1.2,FHG,Interstellar,train
+372,"Decepcionante pero con algún destello. El ritmo es irregular. Si no hay nada más, tal vez la pongas de fondo.",2.1,FHG,Dune,valid
+999,Excepcional. Una montaña rusa de emociones. Se queda grabada en la memoria.,4.9,Diego,Roma,test
+583,"Está bien para pasar el rato. El ritmo mantiene la atención. Cumple, aunque no sorprende.",3.3,FHG,The Dark Knight,test
+952,Maravillosa. Te atrapa desde el primer minuto. Salí conmovido.,4.7,Lucía,Interstellar,train
+159,Pésima película. La fotografía parece amateur. Salí del cine antes de que terminara.,1.1,Ana,Everything Everywhere All at Once,train
+766,Buen entretenimiento. Las actuaciones brillan. Recomendada.,4.0,Carlos,La La Land,valid
+946,Maravillosa. Profundamente conmovedora. La mejor del año.,4.9,María,Roma,train
+272,Quedó debiendo muchísimo. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.7,Diego,Joker,train
+485,Aceptable. Buenos efectos aunque la historia es cliché. Le doy un aprobado raspado.,3.3,Ana,Dune,train
+147,Horrible experiencia. Las actuaciones son de cartón. Una completa decepción.,1.6,Diego,Parasite,train
+718,Me gustó bastante. La fotografía es preciosa. Recomendada.,4.4,María,Soul,train
+791,Recomendable. La fotografía es preciosa. Buen trabajo del director.,4.1,FHG,Parasite,test
+395,"Esperaba más. La trama se desinfla a mitad. Si no hay nada más, tal vez la pongas de fondo.",2.7,Diego,The Dark Knight,test
+827,Inolvidable. Profundamente conmovedora. La mejor del año.,4.8,Diego,Parasite,train
+419,Regular en casi todo. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.7,Lucía,Arrival,train
+844,Excepcional. Profundamente conmovedora. Una joya absoluta.,4.9,FHG,Arrival,train
+577,Regular en casi todo. El reparto funciona a medias. Ideal para una tarde lluviosa.,3.2,Ana,1917,valid
+838,Cine del bueno. Fotografía y música sobresalientes. La mejor del año.,4.7,Carlos,Parasite,train
+991,Obra maestra. Cada plano es arte puro. Salí conmovido.,4.8,Lucía,Arrival,test
+900,Maravillosa. Profundamente conmovedora. La mejor del año.,4.6,Ana,Dune,train
+681,"Buen entretenimiento. El humor está bien medido. Con pequeños fallos, pero funciona.",4.2,Lucía,Arrival,train
+589,"Correcta pero olvidable. Nada sorprende pero nada ofende. Cumple, aunque no sorprende.",3.8,Ana,La La Land,test
+291,Esperaba más. La música intenta levantar la historia. Una pena.,2.7,FHG,Everything Everywhere All at Once,train
+412,Regular en casi todo. El ritmo mantiene la atención. Seguramente la olvidaré pronto.,3.2,Ana,Spider‑Verse,train
+863,Inolvidable. Fotografía y música sobresalientes. Una joya absoluta.,4.6,Ana,Parasite,train
+631,Muy disfrutable. El clímax emociona. Recomendada.,4.2,Diego,Everything Everywhere All at Once,train
+214,Se queda a medias. El final es predecible. Una pena.,2.3,Carlos,Interstellar,train
+866,Impresionante. Fotografía y música sobresalientes. Una joya absoluta.,4.9,Carlos,Everything Everywhere All at Once,train
+359,"Quedó debiendo muchísimo. Los efectos especiales apenas salvan algunos momentos. Si no hay nada más, tal vez la pongas de fondo.",2.8,Lucía,Everything Everywhere All at Once,train
+181,Horrible experiencia. Los diálogos dan vergüenza ajena. Desperdicio absoluto de tiempo.,1.2,Lucía,Interstellar,test
+861,Inolvidable. Profundamente conmovedora. La vería mil veces.,4.8,Carlos,The Dark Knight,train
+381,No cumple lo prometido. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.7,Diego,Coco,test
+100,Horrible experiencia. La fotografía parece amateur. Ni gratis la volvería a ver.,1.8,Ana,Coco,train
+874,Maravillosa. Guion impecable y actuaciones memorables. Una joya absoluta.,4.7,María,Arrival,train
+136,No la recomiendo en absoluto. El guion no tiene sentido. Desperdicio absoluto de tiempo.,1.6,Diego,Dune,train
+177,Pésima película. Las actuaciones son de cartón. Se siente eterna y vacía.,1.4,Ana,La La Land,valid
+958,Impresionante. Fotografía y música sobresalientes. Se queda grabada en la memoria.,4.8,Ana,Dune,train
+505,Aceptable. El reparto funciona a medias. Le doy un aprobado raspado.,3.1,María,Parasite,train
+560,"Entretenida sin más. El ritmo mantiene la atención. Cumple, aunque no sorprende.",3.8,Carlos,Roma,train
+597,"Regular en casi todo. El reparto funciona a medias. Cumple, aunque no sorprende.",3.8,Diego,Mad Max: Fury Road,test
+997,Impresionante. Profundamente conmovedora. La vería mil veces.,4.9,FHG,Soul,test
+40,Horrible experiencia. La fotografía parece amateur. Se siente eterna y vacía.,1.5,María,1917,train
+341,No cumple lo prometido. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.9,Ana,Roma,train
+3,No la recomiendo en absoluto. Las actuaciones son de cartón. Salí del cine antes de que terminara.,1.5,Ana,Arrival,train
+452,Está bien para pasar el rato. Nada sorprende pero nada ofende. No destaca pero tampoco ofende.,3.4,Carlos,Spider‑Verse,train
+824,Cine del bueno. Fotografía y música sobresalientes. Salí conmovido.,4.9,Carlos,Soul,train
+818,Impresionante. Cada plano es arte puro. Una joya absoluta.,5.0,Carlos,Joker,train
+69,Horrible experiencia. El guion no tiene sentido. Le pongo la peor nota posible.,1.6,FHG,Roma,train
+209,Decepcionante pero con algún destello. Los personajes están poco desarrollados. Solo la salva la banda sonora.,2.2,Carlos,Joker,train
+609,"Muy disfrutable. El humor está bien medido. Con pequeños fallos, pero funciona.",4.0,FHG,Spider‑Verse,train
+421,Aceptable. El ritmo mantiene la atención. Salí neutral.,3.3,Diego,La La Land,train
+254,No cumple lo prometido. Los efectos especiales apenas salvan algunos momentos. Algo rescata la fotografía.,2.7,Ana,La La Land,train
+847,Impresionante. Cada plano es arte puro. La vería mil veces.,4.8,María,Whiplash,train
+340,Se queda a medias. El final es predecible. Solo la salva la banda sonora.,2.6,Ana,Arrival,train
+410,Tiene luces y sombras. El ritmo mantiene la atención. Le doy un aprobado raspado.,3.2,Ana,Coco,train
+112,Pésima película. La fotografía parece amateur. Una completa decepción.,1.4,FHG,The Dark Knight,train
+225,Quedó debiendo muchísimo. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.1,Diego,Coco,train
+943,Excepcional. Guion impecable y actuaciones memorables. Salí conmovido.,4.8,Diego,Coco,train
+545,Regular en casi todo. El reparto funciona a medias. Salí neutral.,3.6,Ana,Parasite,train
+74,Dos horas perdidas. El sonido es confuso. Se siente eterna y vacía.,1.2,Lucía,Interstellar,train
+48,Pésima película. Las actuaciones son de cartón. Se siente eterna y vacía.,1.3,Carlos,Interstellar,train
+639,Sólida de principio a fin. La fotografía es preciosa. Salí contento del cine.,4.0,Lucía,Soul,train
+114,No la recomiendo en absoluto. El guion no tiene sentido. Le pongo la peor nota posible.,1.5,Lucía,Parasite,train
+97,Insoportable de principio a fin. Las actuaciones son de cartón. Le pongo la peor nota posible.,1.0,FHG,Arrival,train
+738,Recomendable. La fotografía es preciosa. Vale la entrada.,4.2,Ana,Joker,train
+215,"Floja en casi todo. El final es predecible. No la odié, pero tampoco la disfrutaría de nuevo.",2.8,María,The Dark Knight,train
+570,Regular en casi todo. El ritmo mantiene la atención. Salí neutral.,3.6,María,Soul,valid
+124,Insoportable de principio a fin. El montaje es caótico. Se siente eterna y vacía.,1.1,FHG,Soul,train
+107,Dos horas perdidas. Las actuaciones son de cartón. Ni gratis la volvería a ver.,1.2,Lucía,Mad Max: Fury Road,train
+596,Entretenida sin más. Nada sorprende pero nada ofende. Le doy un aprobado raspado.,3.7,María,Dune,test
+18,Simplemente nefasta. Las actuaciones son de cartón. Se siente eterna y vacía.,1.4,Ana,La La Land,train
+743,Recomendable. El humor está bien medido. Salí contento del cine.,4.4,Diego,1917,train
+99,Horrible experiencia. Las actuaciones son de cartón. Desperdicio absoluto de tiempo.,1.5,FHG,Mad Max: Fury Road,train
+989,Inolvidable. Profundamente conmovedora. Una joya absoluta.,4.7,Carlos,The Dark Knight,test
+323,Quedó debiendo muchísimo. El ritmo es irregular. Le falta alma.,2.4,Ana,Everything Everywhere All at Once,train
+383,Decepcionante pero con algún destello. Los personajes están poco desarrollados. Algo rescata la fotografía.,2.2,Ana,The Dark Knight,test
+366,"No cumple lo prometido. La trama se desinfla a mitad. No la odié, pero tampoco la disfrutaría de nuevo.",2.9,María,Coco,valid
+511,Tiene luces y sombras. Buenos efectos aunque la historia es cliché. No destaca pero tampoco ofende.,3.5,María,Roma,train
