@@ -1,0 +1,9 @@
+Django==4.2.11
+djangorestframework
+joblib         
+numpy
+scikit-learn
+pandas
+spacy
+es-core-news-md
+python-dotenv
