@@ -1,19 +1,27 @@
-# example/views.py
-
-import numpy as np
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from api.ml import MODEL, NLP
+from rest_framework.exceptions import APIException
+
+from api.ml import predict                       # ← nuestra función pred
 from .serializers import ReviewSerializer
 
+
 class ReviewScoreView(APIView):
+    """
+    POST /api/score/
+    Body JSON: {"text": "..." }
+    Respuesta : {"score": 3.71}
+    """
+
     serializer_class = ReviewSerializer
 
     def post(self, request):
         ser = self.serializer_class(data=request.data)
         ser.is_valid(raise_exception=True)
-        text = ser.validated_data["text"]
 
-        vec = np.expand_dims(NLP(text).vector, 0)
-        score = float(MODEL.predict(vec)[0])
+        try:
+            score = predict(ser.validated_data["text"])
+        except Exception as exc:
+            raise APIException(f"No se pudo puntuar la reseña: {exc}")
+
         return Response({"score": round(score, 2)})
