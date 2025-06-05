@@ -7,7 +7,6 @@ from sklearn.preprocessing import StandardScaler
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-# 0) Recursos NLTK
 try:
     nltk.data.find("tokenizers/punkt_tab/spanish")
 except LookupError:
@@ -40,5 +39,5 @@ print("Entrenando…")
 pipe.fit(X, y)
 
 # 3) Guardar SIN compresión
-joblib.dump({"model": pipe}, "svr_nltk_tfidf.joblib")   # ← sin compress
+joblib.dump({"model": pipe}, "svr_nltk_tfidf.joblib")
 print("Archivo generado: svr_nltk_tfidf.joblib")
