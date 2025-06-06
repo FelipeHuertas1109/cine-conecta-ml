@@ -90,5 +90,5 @@ class RecommendMoviesView(APIView):
             "user_id": user_id,
             "limit": limit,
             "count": len(recomendaciones),
-            "recommendations": recomendaciones
+            "movies": recomendaciones
         }, status=status.HTTP_200_OK)

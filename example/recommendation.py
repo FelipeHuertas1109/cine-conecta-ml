@@ -9,11 +9,14 @@ def get_movies_df():
     1) Obtiene todas las películas desde la tabla Movie.
     2) Construye un DataFrame pandas con columnas one-hot para cada género.
     Retorna:
-        - df_movies: DataFrame original con columnas ['movie_id','title','genre', ... géneros one-hot ...]
+        - df_movies: DataFrame original con todas las columnas de la película + géneros one-hot
         - df_features: DataFrame indexado por movie_id que contiene solo las columnas one-hot de géneros.
     """
-    # 1.1. Queryset de todas las películas: solo traemos id, title y genre
-    qs = Movie.objects.all().values('id', 'title', 'genre')
+    # 1.1. Queryset de todas las películas: traemos todos los campos
+    qs = Movie.objects.all().values(
+        'id', 'title', 'description', 'genre', 'director', 
+        'release_date', 'rating', 'poster_url', 'created_at', 'updated_at'
+    )
     
     # 1.2. Convertimos a DataFrame
     df = pd.DataFrame.from_records(qs)
@@ -90,15 +93,17 @@ def recomendar_peliculas(
     — Devuelve las 'top_k' películas con mayor similitud.
 
     Parámetros:
-      - df_movies: DataFrame completo (incluye columnas movie_id, title, genre, ...)
+      - df_movies: DataFrame completo (incluye todas las columnas de la película)
       - df_features: DataFrame indexado por movie_id con únicamente columnas one-hot de géneros.
       - user_ratings: diccionario { movie_id: rating } para el usuario.
       - top_k: número de recomendaciones a retornar.
 
     Retorna:
-      Una lista de diccionarios en formato:
+      Una lista de diccionarios con información completa de las películas:
       [
-        { 'movie_id': <int>, 'title': <str>, 'score': <float> },
+        { 'id': <int>, 'title': <str>, 'description': <str>, 'genre': <str>, 
+          'director': <str>, 'release_date': <str>, 'rating': <float>, 
+          'poster_url': <str>, 'created_at': <str>, 'updated_at': <str> },
         ...
       ]
     """
@@ -120,14 +125,26 @@ def recomendar_peliculas(
     # 4) Ordenar por score descendente y tomar los top_k
     top_recomendaciones = sorted(similitudes, key=lambda x: x[1], reverse=True)[:top_k]
     
-    # 5) Construir lista final con títulos y puntuaciones redondeadas
+    # 5) Construir lista final con información completa de las películas
     resultados = []
-    for (mid, score) in top_recomendaciones:
-        title = df_movies.loc[df_movies['movie_id'] == mid, 'title'].values[0]
-        resultados.append({
-            'movie_id': mid,
-            'title': title,
-            'score': round(score, 3)
-        })
+    for (mid, similarity_score) in top_recomendaciones:
+        # Obtener la fila completa de la película
+        pelicula_row = df_movies.loc[df_movies['movie_id'] == mid].iloc[0]
+        
+        # Construir el diccionario con toda la información
+        pelicula_info = {
+            'id': int(mid),
+            'title': pelicula_row['title'],
+            'description': pelicula_row['description'],
+            'genre': pelicula_row['genre'],
+            'director': pelicula_row['director'],
+            'release_date': pelicula_row['release_date'].isoformat() if pd.notna(pelicula_row['release_date']) else None,
+            'rating': float(pelicula_row['rating']) if pd.notna(pelicula_row['rating']) else None,
+            'poster_url': pelicula_row['poster_url'],
+            'created_at': pelicula_row['created_at'].isoformat() if pd.notna(pelicula_row['created_at']) else None,
+            'updated_at': pelicula_row['updated_at'].isoformat() if pd.notna(pelicula_row['updated_at']) else None
+        }
+        
+        resultados.append(pelicula_info)
     
     return resultados
