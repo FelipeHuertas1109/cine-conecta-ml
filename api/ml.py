@@ -19,7 +19,7 @@ from sklearn.pipeline import Pipeline               # sólo para anotación
 # ------------------------------------------------------------------
 MODEL_PATH = (
     pathlib.Path(__file__).resolve().parent  # api/
-    / "models" / "svr_nltk_tfidf.joblib"     # api/models/...
+    / "models" / "svr_nltk_tfidf_evaluated.joblib"     # api/models/...
 )
 
 # ------------------------------------------------------------------
