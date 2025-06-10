@@ -13,6 +13,7 @@ import sys, types, pathlib, joblib
 from functools import lru_cache
 from django.core.exceptions import ImproperlyConfigured
 from sklearn.pipeline import Pipeline               # sólo para anotación
+import numpy as np
 
 # ------------------------------------------------------------------
 # 1) —— Ruta del modelo (ajústala si lo mueves de carpeta)
@@ -71,7 +72,8 @@ _PIPE: Pipeline = _bundle["model"]     # alias interno
 @lru_cache(maxsize=8)
 def _predict_cached(text: str) -> float:
     """Predicción con memoización sencilla (últimas 8 llamadas)."""
-    return float(_PIPE.predict([text])[0])
+    score_raw = float(_PIPE.predict([text])[0])
+    return float(np.clip(score_raw, 0, 5))  # Limitar entre 0 y 5
 
 def predict(text: str) -> float:
     """
